@@ -1,0 +1,273 @@
+{
+  "Software Developer": {
+    "description": "Build applications for web, mobile or desktop.",
+    "external_roadmap": "https://roadmap.sh/software-engineer",
+    "steps": [
+      {"step":1,"title":"Programming Fundamentals","detail":"Master C or Python — variables, loops, functions, OOP basics.","resource_ids":["res_002","res_019"]},
+      {"step":2,"title":"Data Structures & Algorithms","detail":"Arrays, linked lists, trees, graphs, sorting and searching.","resource_ids":["res_005","res_009","res_025"]},
+      {"step":3,"title":"Version Control (Git)","detail":"Commit, branch, merge, pull requests on GitHub.","resource_ids":["res_022"]},
+      {"step":4,"title":"OS & Networking Basics","detail":"Processes, memory, TCP/IP — foundational for system knowledge.","resource_ids":["res_007","res_010"]},
+      {"step":5,"title":"Databases & SQL","detail":"Relational databases, SQL queries, normalization.","resource_ids":["res_008","res_021"]},
+      {"step":6,"title":"Build Projects","detail":"Build 2–3 real projects and put them on GitHub.","resource_ids":["res_022"]},
+      {"step":7,"title":"Interview Preparation","detail":"LeetCode DSA + system design basics + HR interview prep.","resource_ids":["res_009","res_020"]}
+    ]
+  },
+  "Frontend Developer": {
+    "description": "Build user interfaces and web experiences.",
+    "external_roadmap": "https://roadmap.sh/frontend",
+    "steps": [
+      {"step":1,"title":"HTML & CSS","detail":"Structure, semantics, Flexbox, Grid, responsive design.","resource_ids":["res_011"]},
+      {"step":2,"title":"JavaScript Fundamentals","detail":"DOM, events, async/await, ES6+ features.","resource_ids":["res_011"]},
+      {"step":3,"title":"React (or Vue/Angular)","detail":"Components, state, props, hooks, routing.","resource_ids":[]},
+      {"step":4,"title":"Version Control","detail":"Git and GitHub for collaborative development.","resource_ids":["res_022"]},
+      {"step":5,"title":"Frontend Tools","detail":"npm, webpack/vite, browser dev tools, accessibility.","resource_ids":[]},
+      {"step":6,"title":"Build & Deploy Projects","detail":"Build a portfolio site and deploy to Vercel/Netlify.","resource_ids":["res_022"]}
+    ]
+  },
+  "Backend Developer": {
+    "description": "Build server-side logic, APIs and databases.",
+    "external_roadmap": "https://roadmap.sh/backend",
+    "steps": [
+      {"step":1,"title":"Programming Language","detail":"Python (Django/Flask/FastAPI) or Node.js or Java (Spring).","resource_ids":["res_019"]},
+      {"step":2,"title":"Databases","detail":"SQL (PostgreSQL/MySQL) and NoSQL (MongoDB) basics.","resource_ids":["res_008"]},
+      {"step":3,"title":"REST APIs","detail":"Design and build RESTful APIs with proper status codes.","resource_ids":[]},
+      {"step":4,"title":"Authentication & Security","detail":"JWT, OAuth2, password hashing, input validation.","resource_ids":["res_013"]},
+      {"step":5,"title":"OS & Networking","detail":"HTTP, DNS, TLS, Linux processes and file system.","resource_ids":["res_007","res_010"]},
+      {"step":6,"title":"Deployment & Cloud","detail":"Deploy apps to AWS or GCP with basic Docker knowledge.","resource_ids":["res_013","res_015"]}
+    ]
+  },
+  "Full Stack Developer": {
+    "description": "Build end-to-end web applications — frontend and backend.",
+    "external_roadmap": "https://roadmap.sh/full-stack",
+    "steps": [
+      {"step":1,"title":"Frontend Foundations","detail":"HTML, CSS, JavaScript — responsive UI.","resource_ids":["res_011"]},
+      {"step":2,"title":"JavaScript & React","detail":"React ecosystem: components, state, routing, hooks.","resource_ids":[]},
+      {"step":3,"title":"Backend & APIs","detail":"Node.js or Python backend with REST API design.","resource_ids":["res_019"]},
+      {"step":4,"title":"Databases","detail":"PostgreSQL and MongoDB — know when to use each.","resource_ids":["res_008"]},
+      {"step":5,"title":"Version Control & CI/CD","detail":"Git workflow and GitHub Actions for automated tests/deploys.","resource_ids":["res_022"]},
+      {"step":6,"title":"Cloud Deployment","detail":"AWS or GCP — EC2, S3, serverless basics.","resource_ids":["res_013"]}
+    ]
+  },
+  "Android Developer": {
+    "description": "Build native Android apps with Kotlin and Jetpack Compose.",
+    "external_roadmap": "https://roadmap.sh/android",
+    "steps": [
+      {"step":1,"title":"Kotlin Programming","detail":"Kotlin syntax, null safety, coroutines, extension functions.","resource_ids":[]},
+      {"step":2,"title":"Android Fundamentals","detail":"Activities, Fragments, Intents, Lifecycle, ViewModel.","resource_ids":[]},
+      {"step":3,"title":"UI with Jetpack Compose","detail":"Declarative UI — composables, state, themes.","resource_ids":[]},
+      {"step":4,"title":"Networking & Data","detail":"Retrofit, Room database, coroutines for async work.","resource_ids":[]},
+      {"step":5,"title":"Publishing","detail":"Google Play Store — signing, testing, release tracks.","resource_ids":[]}
+    ]
+  },
+  "AI Engineer": {
+    "description": "Build and deploy AI systems and applications.",
+    "external_roadmap": "https://roadmap.sh/ai-engineer",
+    "steps": [
+      {"step":1,"title":"Python & Math Foundations","detail":"Python, NumPy, Pandas, linear algebra, probability.","resource_ids":["res_019","res_001"]},
+      {"step":2,"title":"Machine Learning","detail":"Supervised/unsupervised learning, model evaluation, sklearn.","resource_ids":["res_012"]},
+      {"step":3,"title":"Deep Learning","detail":"Neural networks, CNNs, RNNs, transformers — PyTorch or TensorFlow.","resource_ids":[]},
+      {"step":4,"title":"LLMs & Generative AI","detail":"Prompt engineering, LangChain, RAG, fine-tuning basics.","resource_ids":[]},
+      {"step":5,"title":"MLOps & Deployment","detail":"Docker, FastAPI, model serving, monitoring.","resource_ids":["res_015"]},
+      {"step":6,"title":"Projects & Kaggle","detail":"Build end-to-end AI projects and compete on Kaggle.","resource_ids":["res_012"]}
+    ]
+  },
+  "ML Engineer": {
+    "description": "Design, train, and deploy production machine learning systems.",
+    "external_roadmap": "https://roadmap.sh/mlops",
+    "steps": [
+      {"step":1,"title":"Python & Statistics","detail":"Python, Pandas, NumPy, statistics, probability.","resource_ids":["res_019"]},
+      {"step":2,"title":"Machine Learning","detail":"Regression, classification, clustering, cross-validation.","resource_ids":["res_012"]},
+      {"step":3,"title":"Deep Learning","detail":"PyTorch or TensorFlow — CNNs, RNNs, transformers.","resource_ids":[]},
+      {"step":4,"title":"Feature Engineering & Pipelines","detail":"Build reusable ML pipelines with scikit-learn and Kedro.","resource_ids":[]},
+      {"step":5,"title":"MLOps","detail":"MLflow, DVC, model registry, CI/CD for ML.","resource_ids":["res_015"]},
+      {"step":6,"title":"Cloud ML Platforms","detail":"AWS SageMaker, GCP Vertex AI, or Azure ML.","resource_ids":["res_013"]}
+    ]
+  },
+  "Data Scientist": {
+    "description": "Analyse data, build models and derive insights.",
+    "external_roadmap": "https://roadmap.sh/data-science",
+    "steps": [
+      {"step":1,"title":"Python & Statistics","detail":"Python, Pandas, Matplotlib, descriptive and inferential statistics.","resource_ids":["res_019"]},
+      {"step":2,"title":"Mathematics for ML","detail":"Linear algebra, calculus, probability — MIT OCW or NPTEL.","resource_ids":["res_001"]},
+      {"step":3,"title":"Machine Learning","detail":"sklearn, model selection, feature engineering.","resource_ids":["res_012"]},
+      {"step":4,"title":"SQL & Databases","detail":"Query, join, aggregate — the daily work of a data scientist.","resource_ids":["res_008","res_021"]},
+      {"step":5,"title":"Data Visualisation","detail":"Matplotlib, Seaborn, Tableau or Power BI.","resource_ids":[]},
+      {"step":6,"title":"Kaggle & Projects","detail":"End-to-end projects — EDA, modelling, story-telling.","resource_ids":["res_012"]}
+    ]
+  },
+  "Data Analyst": {
+    "description": "Turn raw data into insights with SQL, Python, and visualisation.",
+    "external_roadmap": "https://roadmap.sh/data-analyst",
+    "steps": [
+      {"step":1,"title":"Excel & Spreadsheets","detail":"Pivot tables, VLOOKUP, basic data manipulation.","resource_ids":[]},
+      {"step":2,"title":"SQL","detail":"SELECT, JOIN, GROUP BY, subqueries, window functions.","resource_ids":["res_008","res_021"]},
+      {"step":3,"title":"Python for Analysis","detail":"Pandas, NumPy — clean, explore, transform data.","resource_ids":["res_019"]},
+      {"step":4,"title":"Data Visualisation","detail":"Power BI, Tableau, or Matplotlib/Seaborn.","resource_ids":[]},
+      {"step":5,"title":"Statistics","detail":"Hypothesis testing, A/B testing, regression basics.","resource_ids":[]},
+      {"step":6,"title":"Communication","detail":"Present findings clearly to non-technical stakeholders.","resource_ids":["res_003","res_024"]}
+    ]
+  },
+  "Data Engineer": {
+    "description": "Build pipelines that move, transform and store large-scale data.",
+    "external_roadmap": "https://roadmap.sh/data-engineer",
+    "steps": [
+      {"step":1,"title":"Python & SQL","detail":"Strong Python scripting and advanced SQL — the core tools.","resource_ids":["res_019","res_008"]},
+      {"step":2,"title":"Big Data Tools","detail":"Apache Spark, Kafka, Hadoop ecosystem basics.","resource_ids":["res_014"]},
+      {"step":3,"title":"Cloud Data Platforms","detail":"AWS S3/Redshift, GCP BigQuery, or Azure Data Factory.","resource_ids":["res_013"]},
+      {"step":4,"title":"Orchestration","detail":"Apache Airflow — schedule and monitor data pipelines.","resource_ids":[]},
+      {"step":5,"title":"Data Warehousing","detail":"Star schema, dimension tables, data modelling.","resource_ids":[]},
+      {"step":6,"title":"Docker & Infrastructure","detail":"Containerise pipelines and deploy with Docker.","resource_ids":["res_015"]}
+    ]
+  },
+  "Cloud Engineer": {
+    "description": "Design, build and manage cloud infrastructure.",
+    "external_roadmap": "https://roadmap.sh/devops",
+    "steps": [
+      {"step":1,"title":"Linux & Networking","detail":"File system, processes, SSH, TCP/IP, DNS, firewalls.","resource_ids":["res_010"]},
+      {"step":2,"title":"Cloud Provider Fundamentals","detail":"AWS, GCP or Azure — core services: compute, storage, networking.","resource_ids":["res_013"]},
+      {"step":3,"title":"Infrastructure as Code","detail":"Terraform or AWS CloudFormation — reproducible infra.","resource_ids":[]},
+      {"step":4,"title":"Containers","detail":"Docker and Kubernetes for containerised workloads.","resource_ids":["res_015"]},
+      {"step":5,"title":"Security & IAM","detail":"Identity management, least-privilege policies, encryption.","resource_ids":[]},
+      {"step":6,"title":"Certifications","detail":"AWS Solutions Architect or GCP Associate Cloud Engineer.","resource_ids":["res_013"]}
+    ]
+  },
+  "DevOps Engineer": {
+    "description": "Automate builds, deployments and infrastructure.",
+    "external_roadmap": "https://roadmap.sh/devops",
+    "steps": [
+      {"step":1,"title":"Linux & Shell Scripting","detail":"Command line, bash scripting, file permissions.","resource_ids":[]},
+      {"step":2,"title":"Version Control","detail":"Git, branching strategies, GitHub Actions.","resource_ids":["res_022"]},
+      {"step":3,"title":"Cloud Basics","detail":"AWS or GCP — EC2, S3, IAM, VPC.","resource_ids":["res_013"]},
+      {"step":4,"title":"Docker","detail":"Images, containers, Dockerfile, Docker Compose.","resource_ids":["res_015"]},
+      {"step":5,"title":"Kubernetes","detail":"Pods, deployments, services, Helm, autoscaling.","resource_ids":["res_015"]},
+      {"step":6,"title":"CI/CD Pipelines","detail":"Jenkins, GitHub Actions, or GitLab CI.","resource_ids":["res_022"]}
+    ]
+  },
+  "Cybersecurity": {
+    "description": "Protect systems, networks and data from threats.",
+    "external_roadmap": "https://roadmap.sh/cyber-security",
+    "steps": [
+      {"step":1,"title":"Networking Fundamentals","detail":"TCP/IP, DNS, HTTP, firewalls, VPNs.","resource_ids":["res_010"]},
+      {"step":2,"title":"Linux & Command Line","detail":"Linux commands, file permissions, process management.","resource_ids":[]},
+      {"step":3,"title":"Security Concepts","detail":"CIA triad, common attack types, cryptography basics.","resource_ids":[]},
+      {"step":4,"title":"Hands-on Labs","detail":"TryHackMe or Hack The Box — practical offensive/defensive skills.","resource_ids":[]},
+      {"step":5,"title":"Web Security","detail":"OWASP Top 10 — SQL injection, XSS, CSRF.","resource_ids":[]},
+      {"step":6,"title":"Certifications","detail":"CompTIA Security+, CEH, or EC-Council — entry level certs.","resource_ids":[]}
+    ]
+  },
+  "MLOps Engineer": {
+    "description": "Operationalise machine learning — bridge ML and DevOps.",
+    "external_roadmap": "https://roadmap.sh/mlops",
+    "steps": [
+      {"step":1,"title":"Python & ML Basics","detail":"sklearn, model training, evaluation, serialisation.","resource_ids":["res_012","res_019"]},
+      {"step":2,"title":"Docker & Kubernetes","detail":"Containerise models and deploy at scale.","resource_ids":["res_015"]},
+      {"step":3,"title":"ML Experiment Tracking","detail":"MLflow — log parameters, metrics, artefacts.","resource_ids":[]},
+      {"step":4,"title":"CI/CD for ML","detail":"Automate model retraining and deployment pipelines.","resource_ids":["res_022"]},
+      {"step":5,"title":"Model Monitoring","detail":"Detect drift, monitor latency and accuracy in production.","resource_ids":[]},
+      {"step":6,"title":"Cloud ML Platforms","detail":"SageMaker, Vertex AI, or Azure ML for managed MLOps.","resource_ids":["res_013"]}
+    ]
+  },
+  "UI/UX Designer": {
+    "description": "Design intuitive interfaces and meaningful user experiences.",
+    "external_roadmap": "https://roadmap.sh/ux-design",
+    "steps": [
+      {"step":1,"title":"Design Principles","detail":"Colour, typography, spacing, visual hierarchy.","resource_ids":[]},
+      {"step":2,"title":"Figma","detail":"Wireframes, prototypes, components, auto-layout in Figma.","resource_ids":[]},
+      {"step":3,"title":"UX Research","detail":"User interviews, surveys, usability testing, personas.","resource_ids":[]},
+      {"step":4,"title":"Interaction Design","detail":"Micro-interactions, animation, design systems.","resource_ids":[]},
+      {"step":5,"title":"Accessibility","detail":"WCAG guidelines — design for everyone.","resource_ids":[]},
+      {"step":6,"title":"Portfolio","detail":"3–5 case studies on Behance or personal website.","resource_ids":[]}
+    ]
+  },
+  "Product Designer": {
+    "description": "Own the entire design of a digital product — strategy to pixels.",
+    "external_roadmap": "https://roadmap.sh/ux-design",
+    "steps": [
+      {"step":1,"title":"UX Fundamentals","detail":"Empathy, problem definition, ideation, prototyping, testing.","resource_ids":[]},
+      {"step":2,"title":"UI Design","detail":"Visual design, component libraries, brand systems.","resource_ids":[]},
+      {"step":3,"title":"Product Thinking","detail":"Jobs to be done, metrics, user funnels, OKRs.","resource_ids":[]},
+      {"step":4,"title":"Collaboration","detail":"Working with engineers, PMs — Jira, Notion, handoff in Figma.","resource_ids":[]},
+      {"step":5,"title":"Portfolio","detail":"Case studies showing problem → process → outcome.","resource_ids":[]}
+    ]
+  },
+  "Technical Writer": {
+    "description": "Write clear documentation, tutorials, and technical content.",
+    "external_roadmap": "https://roadmap.sh/technical-writer",
+    "steps": [
+      {"step":1,"title":"Writing Fundamentals","detail":"Clear sentences, active voice, structured documents.","resource_ids":["res_003"]},
+      {"step":2,"title":"Markdown & Docs Tools","detail":"Markdown, Docusaurus, Read the Docs, GitHub wikis.","resource_ids":["res_022"]},
+      {"step":3,"title":"Technical Knowledge","detail":"Learn enough coding to understand what you document.","resource_ids":["res_019"]},
+      {"step":4,"title":"API Documentation","detail":"OpenAPI/Swagger — document REST APIs clearly.","resource_ids":[]},
+      {"step":5,"title":"Portfolio","detail":"Publish docs, how-to guides, or tutorials publicly.","resource_ids":[]}
+    ]
+  },
+  "Game Developer": {
+    "description": "Build interactive games for PC, mobile or console.",
+    "external_roadmap": "https://roadmap.sh/game-developer",
+    "steps": [
+      {"step":1,"title":"Programming Basics","detail":"C# (Unity) or C++ (Unreal) — OOP, variables, loops, functions.","resource_ids":["res_002"]},
+      {"step":2,"title":"Game Engine — Unity","detail":"Scenes, GameObjects, scripts, physics, collisions.","resource_ids":[]},
+      {"step":3,"title":"2D Game","detail":"Build a complete 2D game — Pong, Flappy Bird, Platformer.","resource_ids":[]},
+      {"step":4,"title":"3D Fundamentals","detail":"3D maths, cameras, lighting, shaders basics.","resource_ids":[]},
+      {"step":5,"title":"Publish","detail":"Deploy to itch.io, Google Play, or PC.","resource_ids":[]}
+    ]
+  },
+  "Product Manager": {
+    "description": "Define product vision, prioritise features and lead cross-functional teams.",
+    "external_roadmap": "https://roadmap.sh/product-manager",
+    "steps": [
+      {"step":1,"title":"Product Thinking","detail":"Jobs to be done, user stories, product vision, OKRs.","resource_ids":[]},
+      {"step":2,"title":"Market & User Research","detail":"Competitive analysis, user interviews, surveys.","resource_ids":[]},
+      {"step":3,"title":"Prioritisation Frameworks","detail":"RICE, MoSCoW, Kano — how to decide what to build next.","resource_ids":[]},
+      {"step":4,"title":"Agile & Scrum","detail":"Sprints, backlogs, standups, retrospectives.","resource_ids":[]},
+      {"step":5,"title":"Data & Metrics","detail":"SQL basics, funnels, retention, A/B testing.","resource_ids":["res_021"]},
+      {"step":6,"title":"Communication","detail":"Write clear PRDs, present to stakeholders, handle conflict.","resource_ids":["res_003","res_024"]}
+    ]
+  },
+  "Graphic Designer": {
+    "description": "Create visual content for brands, marketing, and media.",
+    "external_roadmap": "https://roadmap.sh/ux-design",
+    "steps": [
+      {"step":1,"title":"Design Principles","detail":"Colour theory, typography, composition, hierarchy.","resource_ids":[]},
+      {"step":2,"title":"Tools — Canva / Figma","detail":"Start with Canva, graduate to Figma or Adobe Illustrator.","resource_ids":[]},
+      {"step":3,"title":"Branding","detail":"Logos, brand guidelines, visual identity systems.","resource_ids":[]},
+      {"step":4,"title":"Digital vs Print","detail":"RGB vs CMYK, file formats, resolution.","resource_ids":[]},
+      {"step":5,"title":"Portfolio","detail":"Behance, Dribbble — document your best work.","resource_ids":[]}
+    ]
+  },
+  "Video Editor": {
+    "description": "Create and edit video content for YouTube, social media, or film.",
+    "external_roadmap": "",
+    "steps": [
+      {"step":1,"title":"Storytelling","detail":"Narrative structure, pacing, shot selection.","resource_ids":[]},
+      {"step":2,"title":"Editing Software","detail":"DaVinci Resolve (free) or Adobe Premiere Pro — cut, trim, transitions.","resource_ids":[]},
+      {"step":3,"title":"Colour Grading","detail":"Basic colour correction and grading with LUTs.","resource_ids":[]},
+      {"step":4,"title":"Audio","detail":"Clean audio, background music, sound effects mixing.","resource_ids":[]},
+      {"step":5,"title":"Motion Graphics","detail":"Basic titles and animations in After Effects or DaVinci Fusion.","resource_ids":[]},
+      {"step":6,"title":"Portfolio","detail":"Publish a YouTube channel or Vimeo showreel.","resource_ids":[]}
+    ]
+  },
+  "Entrepreneur": {
+    "description": "Build and launch your own product, startup or freelance business.",
+    "external_roadmap": "",
+    "steps": [
+      {"step":1,"title":"Problem Discovery","detail":"Find a real problem — talk to 20 potential users before building anything.","resource_ids":[]},
+      {"step":2,"title":"Build an MVP","detail":"Minimum viable product — the smallest thing that tests your idea.","resource_ids":["res_019"]},
+      {"step":3,"title":"Validate & Iterate","detail":"Get real users. Learn fast. Fail small. Pivot if needed.","resource_ids":[]},
+      {"step":4,"title":"Basic Sales & Marketing","detail":"Landing page, social media, cold email — bring in your first users.","resource_ids":[]},
+      {"step":5,"title":"Finance Basics","detail":"Revenue, costs, profit, burn rate — understand your numbers.","resource_ids":["res_020"]},
+      {"step":6,"title":"Network & Find Support","detail":"Startup communities, NASSCOM, TiE, YCombinator Startup School.","resource_ids":[]}
+    ]
+  },
+  "GATE / Higher Studies": {
+    "description": "Prepare for GATE exam or higher studies (MS/PhD/MBA) after B.Tech.",
+    "external_roadmap": "",
+    "steps": [
+      {"step":1,"title":"Know the Exam Pattern","detail":"Understand GATE syllabus, marking scheme, and previous year papers.","resource_ids":["res_023"]},
+      {"step":2,"title":"Core Subject Mastery","detail":"Focus on high-weightage subjects in your branch.","resource_ids":["res_023"]},
+      {"step":3,"title":"Engineering Mathematics & Aptitude","detail":"Common for all GATE papers — don't neglect this section.","resource_ids":["res_001"]},
+      {"step":4,"title":"Previous Year Papers","detail":"Solve 10+ years of GATE previous year questions with analysis.","resource_ids":["res_023"]},
+      {"step":5,"title":"Mock Tests","detail":"Take full-length timed mock tests to build exam stamina.","resource_ids":[]}
+    ]
+  }
+}

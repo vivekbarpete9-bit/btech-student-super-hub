@@ -1,0 +1,137 @@
+[
+  {
+    "id": "task_001",
+    "title": "Solve 2 LeetCode Easy Problems",
+    "category": "DSA",
+    "difficulty": "Beginner",
+    "estimated_minutes": 30,
+    "description": "Pick any 2 Easy problems from LeetCode Arrays section and solve them.",
+    "resource_url": "https://leetcode.com/problemset/all/?difficulty=EASY&topicSlugs=array"
+  },
+  {
+    "id": "task_002",
+    "title": "Read about Big-O Notation",
+    "category": "DSA",
+    "difficulty": "Beginner",
+    "estimated_minutes": 20,
+    "description": "Understand time and space complexity. Read the GeeksforGeeks article on Big-O.",
+    "resource_url": "https://www.geeksforgeeks.org/analysis-of-algorithms-big-o-analysis/"
+  },
+  {
+    "id": "task_003",
+    "title": "Write a Python script using functions",
+    "category": "Python",
+    "difficulty": "Beginner",
+    "estimated_minutes": 25,
+    "description": "Write a Python program that reads a list of numbers and returns min, max and average.",
+    "resource_url": "https://www.w3schools.com/python/python_functions.asp"
+  },
+  {
+    "id": "task_004",
+    "title": "Create a GitHub repository",
+    "category": "Git",
+    "difficulty": "Beginner",
+    "estimated_minutes": 15,
+    "description": "Create a new public GitHub repo, add a README, commit and push your first file.",
+    "resource_url": "https://docs.github.com/en/get-started/quickstart/create-a-repo"
+  },
+  {
+    "id": "task_005",
+    "title": "Complete 1 HackerRank SQL Easy challenge",
+    "category": "SQL",
+    "difficulty": "Beginner",
+    "estimated_minutes": 20,
+    "description": "Log into HackerRank and solve one easy SQL SELECT challenge.",
+    "resource_url": "https://www.hackerrank.com/domains/sql"
+  },
+  {
+    "id": "task_006",
+    "title": "Update your LinkedIn profile",
+    "category": "Career",
+    "difficulty": "Beginner",
+    "estimated_minutes": 30,
+    "description": "Add your latest project or course to LinkedIn. Ensure your headline and summary are filled.",
+    "resource_url": "https://www.linkedin.com/"
+  },
+  {
+    "id": "task_007",
+    "title": "Read about RESTful APIs",
+    "category": "Web Dev",
+    "difficulty": "Beginner",
+    "estimated_minutes": 20,
+    "description": "Read a beginner introduction to REST APIs and understand HTTP methods (GET, POST, PUT, DELETE).",
+    "resource_url": "https://www.geeksforgeeks.org/rest-api-introduction/"
+  },
+  {
+    "id": "task_008",
+    "title": "Revise Operating System concepts — Processes",
+    "category": "OS",
+    "difficulty": "Beginner",
+    "estimated_minutes": 25,
+    "description": "Revise process states, PCB and context switching. Watch the Gate Smashers OS playlist Lecture 1.",
+    "resource_url": "https://www.youtube.com/playlist?list=PLxCzCOWd3aiGz9donHRrE9I3Mwn6XdP8p"
+  },
+  {
+    "id": "task_009",
+    "title": "Practise typing speed (aim 40+ WPM)",
+    "category": "Productivity",
+    "difficulty": "Beginner",
+    "estimated_minutes": 10,
+    "description": "Use Typing.com or MonkeyType to practise typing. Fast typing = faster coding.",
+    "resource_url": "https://www.typingclub.com/"
+  },
+  {
+    "id": "task_010",
+    "title": "Read about Linked Lists",
+    "category": "DSA",
+    "difficulty": "Beginner",
+    "estimated_minutes": 30,
+    "description": "Study singly and doubly linked lists — insertion, deletion and traversal.",
+    "resource_url": "https://www.geeksforgeeks.org/linked-list-data-structure/"
+  },
+  {
+    "id": "task_011",
+    "title": "Write a simple HTML page",
+    "category": "Web Dev",
+    "difficulty": "Beginner",
+    "estimated_minutes": 20,
+    "description": "Create a personal profile page using HTML with a heading, paragraph, image and a link.",
+    "resource_url": "https://www.w3schools.com/html/"
+  },
+  {
+    "id": "task_012",
+    "title": "Learn about Git branching",
+    "category": "Git",
+    "difficulty": "Beginner",
+    "estimated_minutes": 20,
+    "description": "Create a branch in your GitHub repo, make changes and merge it back to main.",
+    "resource_url": "https://learngitbranching.js.org/"
+  },
+  {
+    "id": "task_013",
+    "title": "Draft a 1-page resume",
+    "category": "Career",
+    "difficulty": "Beginner",
+    "estimated_minutes": 45,
+    "description": "Use Internshala's resume builder or a clean template to write your first B.Tech resume.",
+    "resource_url": "https://internshala.com/student/resume"
+  },
+  {
+    "id": "task_014",
+    "title": "Solve 5 HackerRank Python Easy challenges",
+    "category": "Python",
+    "difficulty": "Beginner",
+    "estimated_minutes": 40,
+    "description": "Go to HackerRank Python domain and solve 5 easy challenges.",
+    "resource_url": "https://www.hackerrank.com/domains/python"
+  },
+  {
+    "id": "task_015",
+    "title": "Watch 1 lecture on DBMS — ER Diagrams",
+    "category": "DBMS",
+    "difficulty": "Beginner",
+    "estimated_minutes": 30,
+    "description": "Watch one lecture on Entity-Relationship (ER) diagrams and draw a sample ER for a library system.",
+    "resource_url": "https://nptel.ac.in/courses/106/105/106105175/"
+  }
+]

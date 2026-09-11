@@ -1,0 +1,267 @@
+[
+  {
+    "id": "plt_001", "name": "freeCodeCamp", "url": "https://www.freecodecamp.org/",
+    "category": "Programming / CS", "tags": ["Free", "Certificate", "Practice", "Projects", "Beginner", "Global"],
+    "type": "Platform", "description": "Free coding curriculum covering HTML, CSS, JavaScript, Python, and more with certifications."
+  },
+  {
+    "id": "plt_002", "name": "CS50 – Harvard OpenCourseWare", "url": "https://cs50.harvard.edu/",
+    "category": "Programming / CS", "tags": ["Free", "Certificate", "Beginner", "Global"],
+    "type": "Course", "description": "Harvard's legendary intro to computer science. Free audit; certificate available."
+  },
+  {
+    "id": "plt_003", "name": "The Odin Project", "url": "https://www.theodinproject.com/",
+    "category": "Web Development", "tags": ["Free", "Projects", "Beginner", "Global"],
+    "type": "Platform", "description": "Free open-source full-stack web development curriculum with hands-on projects."
+  },
+  {
+    "id": "plt_004", "name": "Codecademy", "url": "https://www.codecademy.com/",
+    "category": "Programming / CS", "tags": ["Free", "Paid", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Interactive coding lessons for Python, JavaScript, SQL, and many more languages."
+  },
+  {
+    "id": "plt_005", "name": "SoloLearn", "url": "https://www.sololearn.com/",
+    "category": "Programming / CS", "tags": ["Free", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Mobile-friendly bite-sized coding lessons with a community of learners."
+  },
+  {
+    "id": "plt_006", "name": "GeeksforGeeks", "url": "https://www.geeksforgeeks.org/",
+    "category": "Programming / CS", "tags": ["Free", "Practice", "Beginner", "India"],
+    "type": "Platform", "description": "India's go-to resource for DSA, CS concepts, interview prep, and coding problems."
+  },
+  {
+    "id": "plt_007", "name": "W3Schools", "url": "https://www.w3schools.com/",
+    "category": "Web Development", "tags": ["Free", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Simple reference and tutorials for HTML, CSS, JavaScript, SQL, and more."
+  },
+  {
+    "id": "plt_008", "name": "MDN Web Docs", "url": "https://developer.mozilla.org/",
+    "category": "Web Development", "tags": ["Free", "Official", "Beginner", "Global"],
+    "type": "Platform", "description": "Mozilla's authoritative documentation for HTML, CSS, and JavaScript."
+  },
+  {
+    "id": "plt_009", "name": "Exercism", "url": "https://exercism.org/",
+    "category": "Programming / CS", "tags": ["Free", "Practice", "Beginner", "Global"],
+    "type": "Platform", "description": "Free coding exercises with mentorship across 67+ programming languages."
+  },
+  {
+    "id": "plt_010", "name": "MIT OpenCourseWare", "url": "https://ocw.mit.edu/",
+    "category": "Academic", "tags": ["Free", "Advanced", "Global"],
+    "type": "Platform", "description": "Free lecture notes, exams, and videos from MIT's actual courses."
+  },
+  {
+    "id": "plt_011", "name": "NPTEL", "url": "https://nptel.ac.in/",
+    "category": "Academic", "tags": ["Free", "Government", "Certificate", "Beginner", "India"],
+    "type": "Platform", "description": "IIT/IISc lecture series. Free to audit; paid certification exam available."
+  },
+  {
+    "id": "plt_012", "name": "SWAYAM", "url": "https://swayam.gov.in/",
+    "category": "Academic", "tags": ["Free", "Government", "Certificate", "Beginner", "India"],
+    "type": "Platform", "description": "India's national online education platform. Courses from top universities, credit-transferable."
+  },
+  {
+    "id": "plt_013", "name": "Khan Academy", "url": "https://www.khanacademy.org/",
+    "category": "Academic", "tags": ["Free", "Beginner", "Global"],
+    "type": "Platform", "description": "Free courses in maths, science, computing, and more — great for foundational learning."
+  },
+  {
+    "id": "plt_014", "name": "Microsoft Learn", "url": "https://learn.microsoft.com/",
+    "category": "Cloud / DevOps", "tags": ["Free", "Official", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Official Microsoft learning platform for Azure, Power Platform, .NET, and more."
+  },
+  {
+    "id": "plt_015", "name": "IBM SkillsBuild", "url": "https://skillsbuild.org/",
+    "category": "AI / Data", "tags": ["Free", "Official", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "IBM's free learning platform covering AI, cybersecurity, cloud, and professional skills."
+  },
+  {
+    "id": "plt_016", "name": "AWS Skill Builder", "url": "https://skillbuilder.aws/",
+    "category": "Cloud / DevOps", "tags": ["Free", "Official", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Official AWS training — free digital courses plus paid subscription for labs."
+  },
+  {
+    "id": "plt_017", "name": "Google Cloud Skills Boost", "url": "https://cloudskillsboost.google/",
+    "category": "Cloud / DevOps", "tags": ["Free", "Official", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Official Google Cloud learning path with hands-on labs and badges."
+  },
+  {
+    "id": "plt_018", "name": "Google AI Learning", "url": "https://ai.google/education/",
+    "category": "AI / Data", "tags": ["Free", "Official", "Beginner", "Global"],
+    "type": "Platform", "description": "Google's curated AI learning resources including courses, tools, and research."
+  },
+  {
+    "id": "plt_019", "name": "Hugging Face Learn", "url": "https://huggingface.co/learn",
+    "category": "AI / Data", "tags": ["Free", "Official", "Intermediate", "Global"],
+    "type": "Platform", "description": "Official Hugging Face courses on NLP, diffusion models, and deep RL."
+  },
+  {
+    "id": "plt_020", "name": "NVIDIA Deep Learning Institute", "url": "https://www.nvidia.com/en-us/training/",
+    "category": "AI / Data", "tags": ["Free", "Official", "Certificate", "Intermediate", "Global"],
+    "type": "Platform", "description": "NVIDIA's hands-on AI, deep learning, and accelerated computing courses."
+  },
+  {
+    "id": "plt_021", "name": "Kaggle Learn", "url": "https://www.kaggle.com/learn",
+    "category": "AI / Data", "tags": ["Free", "Certificate", "Practice", "Beginner", "Global"],
+    "type": "Platform", "description": "Free micro-courses on Python, ML, SQL, and data science — with Kaggle notebooks."
+  },
+  {
+    "id": "plt_022", "name": "DeepLearning.AI", "url": "https://www.deeplearning.ai/",
+    "category": "AI / Data", "tags": ["Free", "Paid", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Andrew Ng's AI education platform — specializations in ML, NLP, MLOps, and more."
+  },
+  {
+    "id": "plt_023", "name": "Coursera", "url": "https://www.coursera.org/",
+    "category": "Courses", "tags": ["Free", "Paid", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "University and industry courses with certificates. Audit most for free."
+  },
+  {
+    "id": "plt_024", "name": "edX", "url": "https://www.edx.org/",
+    "category": "Courses", "tags": ["Free", "Paid", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Courses from MIT, Harvard, and global universities. Free audit available."
+  },
+  {
+    "id": "plt_025", "name": "Udemy", "url": "https://www.udemy.com/",
+    "category": "Courses", "tags": ["Paid", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Marketplace of video courses on every topic. Frequent sales make courses affordable."
+  },
+  {
+    "id": "plt_026", "name": "LinkedIn Learning", "url": "https://www.linkedin.com/learning/",
+    "category": "Courses", "tags": ["Paid", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Professional skills courses on technology, business, and creativity."
+  },
+  {
+    "id": "plt_027", "name": "Alison", "url": "https://alison.com/",
+    "category": "Courses", "tags": ["Free", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Free online courses with certificates across IT, health, business, and languages."
+  },
+  {
+    "id": "plt_028", "name": "Great Learning", "url": "https://www.greatlearning.in/",
+    "category": "Courses", "tags": ["Free", "Paid", "Certificate", "Beginner", "India"],
+    "type": "Platform", "description": "Free and paid courses in AI, cloud, data science, and management — India-focused."
+  },
+  {
+    "id": "plt_029", "name": "Udacity", "url": "https://www.udacity.com/",
+    "category": "Courses", "tags": ["Paid", "Certificate", "Intermediate", "Global"],
+    "type": "Platform", "description": "Nanodegree programs with industry mentors in data science, AI, and software engineering."
+  },
+  {
+    "id": "plt_030", "name": "DataCamp", "url": "https://www.datacamp.com/",
+    "category": "AI / Data", "tags": ["Free", "Paid", "Certificate", "Practice", "Beginner", "Global"],
+    "type": "Platform", "description": "Interactive data science and analytics courses in Python, R, SQL, and Power BI."
+  },
+  {
+    "id": "plt_031", "name": "LearnVern", "url": "https://www.learnvern.com/",
+    "category": "Courses", "tags": ["Free", "Certificate", "Beginner", "India"],
+    "type": "Platform", "description": "Free Hindi-medium courses on programming, web development, and design for Indian students."
+  },
+  {
+    "id": "plt_032", "name": "FutureLearn", "url": "https://www.futurelearn.com/",
+    "category": "Courses", "tags": ["Free", "Paid", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Short courses from UK universities and global institutions."
+  },
+  {
+    "id": "plt_033", "name": "Canva Design School", "url": "https://www.canva.com/learn/",
+    "category": "Design / Creative", "tags": ["Free", "Beginner", "Global"],
+    "type": "Platform", "description": "Free design tutorials and courses from Canva covering graphic design basics."
+  },
+  {
+    "id": "plt_034", "name": "Figma Learn", "url": "https://help.figma.com/hc/en-us/categories/360002051613",
+    "category": "Design / Creative", "tags": ["Free", "Official", "Beginner", "Global"],
+    "type": "Platform", "description": "Official Figma documentation and tutorials for learning UI/UX design."
+  },
+  {
+    "id": "plt_035", "name": "UXcel", "url": "https://uxcel.com/",
+    "category": "Design / Creative", "tags": ["Free", "Paid", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Interactive UX design courses and skill assessments."
+  },
+  {
+    "id": "plt_036", "name": "Google Skillshop", "url": "https://skillshop.withgoogle.com/",
+    "category": "Business / Marketing", "tags": ["Free", "Official", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Official Google certifications for Google Ads, Analytics, Search, and more."
+  },
+  {
+    "id": "plt_037", "name": "HubSpot Academy", "url": "https://academy.hubspot.com/",
+    "category": "Business / Marketing", "tags": ["Free", "Official", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Free certifications in inbound marketing, content, email, and sales."
+  },
+  {
+    "id": "plt_038", "name": "Meta Blueprint", "url": "https://www.facebook.com/business/learn",
+    "category": "Business / Marketing", "tags": ["Free", "Official", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Official Meta learning for Facebook/Instagram advertising and marketing."
+  },
+  {
+    "id": "plt_039", "name": "Semrush Academy", "url": "https://www.semrush.com/academy/",
+    "category": "Business / Marketing", "tags": ["Free", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Free SEO, content marketing, and PPC courses with certifications."
+  },
+  {
+    "id": "plt_040", "name": "TryHackMe", "url": "https://tryhackme.com/",
+    "category": "Cybersecurity", "tags": ["Free", "Paid", "Certificate", "Practice", "Beginner", "Global"],
+    "type": "Platform", "description": "Hands-on cybersecurity learning through browser-based labs and guided rooms."
+  },
+  {
+    "id": "plt_041", "name": "Microsoft Security Learning", "url": "https://learn.microsoft.com/en-us/security/",
+    "category": "Cybersecurity", "tags": ["Free", "Official", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Official Microsoft resources for learning security concepts and Azure security."
+  },
+  {
+    "id": "plt_042", "name": "LeetCode", "url": "https://leetcode.com/",
+    "category": "Coding Practice", "tags": ["Free", "Paid", "Practice", "Intermediate", "Global"],
+    "type": "Practice", "description": "The #1 platform for coding interview prep — DSA problems from easy to hard."
+  },
+  {
+    "id": "plt_043", "name": "HackerRank", "url": "https://www.hackerrank.com/",
+    "category": "Coding Practice", "tags": ["Free", "Certificate", "Practice", "Beginner", "Global"],
+    "type": "Practice", "description": "Coding challenges across algorithms, SQL, Python, Java, and more with certificates."
+  },
+  {
+    "id": "plt_044", "name": "CodeChef", "url": "https://www.codechef.com/",
+    "category": "Coding Practice", "tags": ["Free", "Practice", "Intermediate", "India"],
+    "type": "Practice", "description": "Competitive programming contests and practice problems. Indian platform by Directi."
+  },
+  {
+    "id": "plt_045", "name": "Codeforces", "url": "https://codeforces.com/",
+    "category": "Coding Practice", "tags": ["Free", "Practice", "Advanced", "Global"],
+    "type": "Practice", "description": "Global competitive programming platform with regular contests and editorial solutions."
+  },
+  {
+    "id": "plt_046", "name": "Frontend Mentor", "url": "https://www.frontendmentor.io/",
+    "category": "Web Development", "tags": ["Free", "Paid", "Practice", "Projects", "Beginner", "Global"],
+    "type": "Practice", "description": "Real-world frontend challenges to improve HTML, CSS, and JavaScript skills."
+  },
+  {
+    "id": "plt_047", "name": "Kaggle", "url": "https://www.kaggle.com/",
+    "category": "AI / Data", "tags": ["Free", "Practice", "Projects", "Intermediate", "Global"],
+    "type": "Practice", "description": "Data science competitions, datasets, notebooks, and micro-courses in one place."
+  },
+  {
+    "id": "plt_048", "name": "GitHub", "url": "https://github.com/",
+    "category": "Projects", "tags": ["Free", "Projects", "Beginner", "Global"],
+    "type": "Platform", "description": "The world's largest code hosting and collaboration platform. Essential for every developer."
+  },
+  {
+    "id": "plt_049", "name": "GitLab", "url": "https://gitlab.com/",
+    "category": "Projects", "tags": ["Free", "Projects", "Beginner", "Global"],
+    "type": "Platform", "description": "Alternative to GitHub with built-in CI/CD pipelines. Great for DevOps practice."
+  },
+  {
+    "id": "plt_050", "name": "Devpost", "url": "https://devpost.com/",
+    "category": "Projects", "tags": ["Free", "Projects", "Beginner", "Global"],
+    "type": "Platform", "description": "Platform to find hackathons and showcase software projects."
+  },
+  {
+    "id": "plt_051", "name": "roadmap.sh", "url": "https://roadmap.sh/",
+    "category": "Career", "tags": ["Free", "Beginner", "Global"],
+    "type": "Platform", "description": "Community-maintained interactive roadmaps for every software engineering role."
+  },
+  {
+    "id": "plt_052", "name": "Ahrefs Academy", "url": "https://ahrefs.com/academy",
+    "category": "Business / Marketing", "tags": ["Free", "Certificate", "Beginner", "Global"],
+    "type": "Platform", "description": "Free SEO courses from one of the leading SEO tool providers."
+  },
+  {
+    "id": "plt_053", "name": "Skillshare", "url": "https://www.skillshare.com/",
+    "category": "Design / Creative", "tags": ["Paid", "Beginner", "Global"],
+    "type": "Platform", "description": "Creative skills platform for design, photography, video, and business."
+  }
+]

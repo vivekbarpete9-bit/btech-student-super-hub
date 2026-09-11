@@ -1,0 +1,110 @@
+{
+  "india": [
+    {
+      "id": "job_in_001", "name": "LinkedIn Jobs (India)", "url": "https://www.linkedin.com/jobs/",
+      "type": "Platform", "tags": ["Free", "India", "Global"],
+      "description": "Search jobs by title, company, and location — most used professional job platform."
+    },
+    {
+      "id": "job_in_002", "name": "Naukri", "url": "https://www.naukri.com/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "India's largest job portal with millions of listings across all sectors."
+    },
+    {
+      "id": "job_in_003", "name": "Indeed India", "url": "https://www.indeed.co.in/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "Aggregated job listings from company websites and job boards across India."
+    },
+    {
+      "id": "job_in_004", "name": "Glassdoor India", "url": "https://www.glassdoor.co.in/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "Job listings plus company reviews, salary data, and interview questions."
+    },
+    {
+      "id": "job_in_005", "name": "Internshala Jobs", "url": "https://internshala.com/jobs/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "Entry-level and fresher jobs alongside internships — ideal for new graduates."
+    },
+    {
+      "id": "job_in_006", "name": "Shine.com", "url": "https://www.shine.com/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "Job portal by Hindustan Times — engineering and IT focused."
+    },
+    {
+      "id": "job_in_007", "name": "Freshersworld", "url": "https://www.freshersworld.com/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "Jobs and off-campus recruitment drives for freshers and recent graduates."
+    },
+    {
+      "id": "job_in_008", "name": "Government Jobs — NCS Portal", "url": "https://www.ncs.gov.in/",
+      "type": "Platform", "tags": ["Free", "Government", "India"],
+      "description": "National Career Service Portal by India's Ministry of Labour — government and private sector jobs."
+    }
+  ],
+  "global": [
+    {
+      "id": "job_gl_001", "name": "LinkedIn Jobs (Global)", "url": "https://www.linkedin.com/jobs/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "The world's largest professional network with extensive job listings globally."
+    },
+    {
+      "id": "job_gl_002", "name": "Indeed (Global)", "url": "https://www.indeed.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "One of the largest global job aggregators — search by role, location, and salary."
+    },
+    {
+      "id": "job_gl_003", "name": "Wellfound (AngelList)", "url": "https://wellfound.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Startup jobs worldwide — great for finding roles at early-stage tech companies."
+    },
+    {
+      "id": "job_gl_004", "name": "Y Combinator Jobs", "url": "https://www.ycombinator.com/jobs",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Jobs at YC-backed startups — verified, fast-growing companies."
+    },
+    {
+      "id": "job_gl_005", "name": "Remote OK", "url": "https://remoteok.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Remote-first job listings across software, design, and data roles."
+    },
+    {
+      "id": "job_gl_006", "name": "We Work Remotely", "url": "https://weworkremotely.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Curated remote job listings — tech, design, and customer support."
+    },
+    {
+      "id": "job_gl_007", "name": "Built In", "url": "https://builtin.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Tech company jobs in major US cities and remote — good for software engineers."
+    },
+    {
+      "id": "job_gl_008", "name": "Dice", "url": "https://www.dice.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Technology-focused job board — strong for software engineers and IT professionals."
+    },
+    {
+      "id": "job_gl_009", "name": "FlexJobs", "url": "https://www.flexjobs.com/",
+      "type": "Platform", "tags": ["Paid", "Global"],
+      "description": "Verified flexible and remote jobs — paid subscription filters out scams."
+    },
+    {
+      "id": "job_gl_010", "name": "Welcome to the Jungle", "url": "https://www.welcometothejungle.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Transparent job listings with company culture profiles — European and global roles."
+    },
+    {
+      "id": "job_gl_011", "name": "Handshake", "url": "https://joinhandshake.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Early career jobs and internships — used by US universities and companies."
+    }
+  ],
+  "tips": [
+    "Apply to jobs even if you meet only 70% of requirements — you will grow into the rest.",
+    "Customise your resume for each role — use keywords from the job description.",
+    "A strong LinkedIn profile with a clear headline gets recruiters to reach out.",
+    "Build projects and push them to GitHub before your final year placements.",
+    "For off-campus roles, follow company career pages directly.",
+    "Practice 2–3 DSA problems daily from your 2nd year — consistency beats cramming.",
+    "Mock interviews on Pramp or Interviewing.io help you reduce anxiety before real ones."
+  ]
+}

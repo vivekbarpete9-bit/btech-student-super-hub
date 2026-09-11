@@ -1,0 +1,532 @@
+{
+  "CSE": {
+    "full_name": "Computer Science & Engineering",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "C Programming", "Engineering Drawing", "English Communication"],
+            "resource_ids": ["res_001", "res_002", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Engineering Chemistry", "Data Structures", "Digital Electronics", "Professional Communication"],
+            "resource_ids": ["res_004", "res_005"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Discrete Mathematics", "Object-Oriented Programming (Java)", "Computer Organization", "Operating Systems", "Database Management Systems"],
+            "resource_ids": ["res_006", "res_007", "res_008"]
+          },
+          "4": {
+            "subjects": ["Algorithm Design & Analysis", "Computer Networks", "Software Engineering", "Theory of Computation", "Linux & Shell Scripting"],
+            "resource_ids": ["res_009", "res_010"]
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["Compiler Design", "Web Technologies", "Machine Learning Basics", "Cloud Computing", "Information Security"],
+            "resource_ids": ["res_011", "res_012", "res_013"]
+          },
+          "6": {
+            "subjects": ["Artificial Intelligence", "Big Data Analytics", "Mobile Application Development", "Distributed Systems", "Elective-I"],
+            "resource_ids": ["res_014"]
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Deep Learning", "DevOps & Containers", "Elective-II", "Project Phase-I"],
+            "resource_ids": ["res_015"]
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-III"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "IT": {
+    "full_name": "Information Technology",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "C Programming", "Engineering Drawing", "English Communication"],
+            "resource_ids": ["res_001", "res_002", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Engineering Chemistry", "Data Structures", "Digital Electronics", "Professional Communication"],
+            "resource_ids": ["res_004", "res_005"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Object-Oriented Programming", "Computer Networks", "Operating Systems", "Database Management Systems", "Web Programming"],
+            "resource_ids": ["res_006", "res_008", "res_011"]
+          },
+          "4": {
+            "subjects": ["Algorithm Design", "Software Engineering", "Information Security", "Linux Administration", "Cloud Fundamentals"],
+            "resource_ids": ["res_009", "res_013"]
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["Web Technologies", "Mobile Computing", "Data Warehousing", "Network Security", "Elective-I"],
+            "resource_ids": ["res_011", "res_013"]
+          },
+          "6": {
+            "subjects": ["Cloud Computing", "IoT & Applications", "Data Science Basics", "DevOps", "Elective-II"],
+            "resource_ids": ["res_013", "res_015"]
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Advanced Cloud", "Cybersecurity", "Elective-III", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "AI_DS": {
+    "full_name": "AI & Data Science",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "Python Programming", "Engineering Drawing", "English Communication"],
+            "resource_ids": ["res_001", "res_019", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II (Statistics & Probability)", "Linear Algebra", "Data Structures", "Digital Electronics", "Professional Communication"],
+            "resource_ids": ["res_001", "res_005"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Database Management Systems", "Operating Systems", "Python for Data Science", "Statistical Computing", "Data Visualization"],
+            "resource_ids": ["res_008", "res_019", "res_012"]
+          },
+          "4": {
+            "subjects": ["Machine Learning", "Algorithm Design", "Big Data Analytics", "Cloud Computing Basics", "Elective-I"],
+            "resource_ids": ["res_012", "res_014"]
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["Deep Learning", "Natural Language Processing", "Computer Vision", "MLOps", "Elective-II"],
+            "resource_ids": ["res_012"]
+          },
+          "6": {
+            "subjects": ["Generative AI", "Data Engineering", "Responsible AI & Ethics", "AI Deployment", "Elective-III"],
+            "resource_ids": []
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["AI Research Methods", "Elective-IV", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-V"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "ECE": {
+    "full_name": "Electronics & Communication Engineering",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "Basic Electrical Engineering", "Engineering Drawing", "English Communication"],
+            "resource_ids": ["res_001", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Engineering Chemistry", "Electronic Devices", "Digital Electronics", "C Programming"],
+            "resource_ids": ["res_002", "res_004"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Signals & Systems", "Analog Circuits", "Electromagnetic Theory", "Digital Signal Processing Basics", "Data Structures"],
+            "resource_ids": ["res_005"]
+          },
+          "4": {
+            "subjects": ["Communication Engineering", "Microprocessors & Microcontrollers", "VLSI Design", "Control Systems", "Computer Networks"],
+            "resource_ids": ["res_010"]
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["Embedded Systems", "RF & Microwave Engineering", "Digital Communication", "DSP Algorithms", "Information Theory"],
+            "resource_ids": ["res_016"]
+          },
+          "6": {
+            "subjects": ["Wireless Communication", "IoT & Sensor Networks", "Image Processing", "MATLAB Applications", "Elective-I"],
+            "resource_ids": ["res_017"]
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Advanced Communication Systems", "Elective-II", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-III"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "EEE": {
+    "full_name": "Electrical & Electronics Engineering",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "Basic Electrical Engineering", "Engineering Drawing", "English Communication"],
+            "resource_ids": ["res_001", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Engineering Chemistry", "Electronic Devices", "Digital Electronics", "C Programming"],
+            "resource_ids": ["res_002", "res_004"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Electrical Machines-I", "Circuit Theory", "Analog Electronics", "Control Systems Basics", "Signals & Systems"],
+            "resource_ids": []
+          },
+          "4": {
+            "subjects": ["Electrical Machines-II", "Power Systems", "Power Electronics", "Microprocessors", "Measurements & Instrumentation"],
+            "resource_ids": []
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["High Voltage Engineering", "Industrial Drives", "VLSI Design", "Renewable Energy Systems", "Elective-I"],
+            "resource_ids": []
+          },
+          "6": {
+            "subjects": ["Power System Protection", "Smart Grid Technologies", "Embedded Systems", "Electric Vehicles Basics", "Elective-II"],
+            "resource_ids": ["res_016"]
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Advanced Power Systems", "Elective-III", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "ME": {
+    "full_name": "Mechanical Engineering",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "Engineering Drawing", "Workshop Technology", "English Communication"],
+            "resource_ids": ["res_001", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Engineering Chemistry", "Basic Electrical Engineering", "Thermodynamics Basics", "C Programming"],
+            "resource_ids": ["res_001", "res_002"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Strength of Materials", "Fluid Mechanics", "Manufacturing Processes", "Applied Thermodynamics", "Kinematics of Machines"],
+            "resource_ids": []
+          },
+          "4": {
+            "subjects": ["Machine Design", "Heat Transfer", "Dynamics of Machines", "Metrology & Quality", "Industrial Engineering"],
+            "resource_ids": []
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["CNC & Advanced Manufacturing", "CAD/CAM", "Finite Element Analysis", "Automobile Engineering", "Elective-I"],
+            "resource_ids": ["res_018"]
+          },
+          "6": {
+            "subjects": ["Robotics & Automation", "Refrigeration & Air Conditioning", "Power Plant Engineering", "MATLAB for Mechanical", "Elective-II"],
+            "resource_ids": []
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Operations Research", "Elective-III", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "CE": {
+    "full_name": "Civil Engineering",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "Engineering Drawing", "Surveying Basics", "English Communication"],
+            "resource_ids": ["res_001", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Engineering Chemistry", "Basic Electrical Engineering", "Building Materials", "C Programming"],
+            "resource_ids": ["res_001", "res_002"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Structural Analysis", "Fluid Mechanics", "Concrete Technology", "Soil Mechanics", "Surveying"],
+            "resource_ids": []
+          },
+          "4": {
+            "subjects": ["RCC Design", "Hydraulics", "Environmental Engineering", "Transportation Engineering", "Geotechnical Engineering"],
+            "resource_ids": []
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["Steel Design", "Water Resources Engineering", "Urban Planning", "AutoCAD for Civil", "Elective-I"],
+            "resource_ids": []
+          },
+          "6": {
+            "subjects": ["Foundation Engineering", "Irrigation Engineering", "Quantity Surveying", "BIM & Revit", "Elective-II"],
+            "resource_ids": []
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Construction Management", "Elective-III", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "CHEM": {
+    "full_name": "Chemical Engineering",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "Engineering Chemistry", "Engineering Drawing", "English Communication"],
+            "resource_ids": ["res_001", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Engineering Chemistry-II", "Basic Electrical Engineering", "Thermodynamics Basics", "C Programming"],
+            "resource_ids": ["res_001", "res_002"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Fluid Mechanics", "Chemical Process Calculations", "Heat Transfer", "Mass Transfer", "Reaction Engineering Basics"],
+            "resource_ids": []
+          },
+          "4": {
+            "subjects": ["Chemical Reaction Engineering", "Transport Phenomena", "Thermodynamics of Chemical Processes", "Instrumentation & Control", "Particle Technology"],
+            "resource_ids": []
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["Process Equipment Design", "Chemical Plant Design", "Process Safety & Hazard Analysis", "Environmental Engineering", "Elective-I"],
+            "resource_ids": []
+          },
+          "6": {
+            "subjects": ["Process Control & Simulation", "Biochemical Engineering", "Polymer Engineering", "Aspen Plus Simulation", "Elective-II"],
+            "resource_ids": []
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Advanced Process Design", "Elective-III", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "BT": {
+    "full_name": "Biotechnology",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "Engineering Chemistry", "Engineering Drawing", "English Communication"],
+            "resource_ids": ["res_001", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Biochemistry", "Microbiology Basics", "Cell Biology", "C Programming"],
+            "resource_ids": ["res_001", "res_002"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Molecular Biology", "Genetics", "Biostatistics", "Biochemical Engineering", "Microbial Biotechnology"],
+            "resource_ids": []
+          },
+          "4": {
+            "subjects": ["Genetic Engineering", "Fermentation Technology", "Bioinformatics Basics", "Immunology", "Downstream Processing"],
+            "resource_ids": []
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["Computational Biology", "Genomics & Proteomics", "Plant Biotechnology", "Bioprocess Engineering", "Elective-I"],
+            "resource_ids": []
+          },
+          "6": {
+            "subjects": ["Industrial Biotechnology", "Nanobiotechnology", "Regulatory Affairs", "Bioethics", "Elective-II"],
+            "resource_ids": []
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Advanced Bioinformatics", "Elective-III", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  },
+  "EI": {
+    "full_name": "Electronics & Instrumentation Engineering",
+    "years": {
+      "1": {
+        "semesters": {
+          "1": {
+            "subjects": ["Mathematics-I", "Engineering Physics", "Basic Electrical Engineering", "Engineering Drawing", "English Communication"],
+            "resource_ids": ["res_001", "res_003"]
+          },
+          "2": {
+            "subjects": ["Mathematics-II", "Engineering Chemistry", "Electronic Devices", "Digital Electronics", "C Programming"],
+            "resource_ids": ["res_002", "res_004"]
+          }
+        }
+      },
+      "2": {
+        "semesters": {
+          "3": {
+            "subjects": ["Signals & Systems", "Transducers & Sensors", "Analog Electronics", "Process Control Basics", "Microprocessors"],
+            "resource_ids": []
+          },
+          "4": {
+            "subjects": ["Industrial Instrumentation", "Control Systems", "Data Acquisition Systems", "Communication Systems", "Computer Networks"],
+            "resource_ids": ["res_010"]
+          }
+        }
+      },
+      "3": {
+        "semesters": {
+          "5": {
+            "subjects": ["Advanced Process Control", "SCADA & PLC", "Analytical Instrumentation", "Biomedical Instrumentation", "Elective-I"],
+            "resource_ids": []
+          },
+          "6": {
+            "subjects": ["Virtual Instrumentation (LabVIEW)", "Distributed Control Systems", "Embedded Systems", "IoT for Instrumentation", "Elective-II"],
+            "resource_ids": ["res_016", "res_017"]
+          }
+        }
+      },
+      "4": {
+        "semesters": {
+          "7": {
+            "subjects": ["Smart Sensors & MEMS", "Elective-III", "Project Phase-I"],
+            "resource_ids": []
+          },
+          "8": {
+            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
+            "resource_ids": []
+          }
+        }
+      }
+    }
+  }
+}

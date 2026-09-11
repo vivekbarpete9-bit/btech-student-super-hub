@@ -1,0 +1,110 @@
+{
+  "technical": [
+    "C Programming", "C++ Programming", "Java Programming", "Python Programming",
+    "JavaScript", "TypeScript", "Go (Golang)", "Rust", "Kotlin", "Swift",
+    "SQL", "Bash / Shell Scripting",
+    "Data Structures & Algorithms (DSA)", "Database Management Systems (DBMS)",
+    "Operating Systems", "Computer Networks", "Computer Architecture",
+    "Software Engineering", "System Design", "REST APIs", "Git & GitHub",
+    "Linux & Command Line", "Software Testing",
+    "HTML & CSS", "JavaScript (Frontend)", "React", "Frontend Development",
+    "Backend Development", "Full Stack Development", "Mobile Development",
+    "Statistics for Data Science", "Data Analysis", "Data Visualization",
+    "Machine Learning", "Deep Learning", "Natural Language Processing (NLP)",
+    "Computer Vision", "Generative AI", "Prompt Engineering", "AI Agents",
+    "Data Engineering", "MLOps", "Responsible AI",
+    "Cloud Computing", "AWS", "Microsoft Azure", "Google Cloud Platform",
+    "Docker", "Kubernetes", "CI/CD", "DevOps", "DevSecOps",
+    "Cybersecurity Fundamentals", "Network Security", "Web Security",
+    "Ethical Security Concepts", "Security Awareness",
+    "UI/UX Design", "Graphic Design", "Video Editing",
+    "Content Creation", "Digital Marketing", "SEO"
+  ],
+  "branch_specific": {
+    "CSE": [
+      "System Design (Advanced)", "Compiler Design", "Theory of Computation",
+      "Distributed Systems", "Microservices Architecture",
+      "Machine Learning Basics", "Deep Learning & Neural Networks",
+      "Cloud Computing (AWS/GCP/Azure)", "DevOps & CI/CD",
+      "Cybersecurity Fundamentals", "Mobile App Development",
+      "Data Science & Analytics", "Docker & Kubernetes"
+    ],
+    "IT": [
+      "Network Administration", "Cloud Infrastructure",
+      "Information Security Management", "Web Application Development",
+      "Database Administration", "IT Service Management (ITSM)",
+      "Virtualization", "Enterprise Architecture"
+    ],
+    "AI_DS": [
+      "Advanced Machine Learning", "Deep Learning Architectures",
+      "Natural Language Processing", "Computer Vision",
+      "Generative AI & LLMs", "MLOps & Model Deployment",
+      "Data Engineering & Pipelines", "Feature Engineering",
+      "Responsible AI & AI Ethics", "AI Research Methods",
+      "Kaggle & Competitive ML"
+    ],
+    "ECE": [
+      "Embedded Systems & Microcontrollers", "VLSI Design",
+      "Digital Signal Processing", "IoT & Sensor Networks",
+      "RF & Wireless Communication", "PCB Design",
+      "Arduino & Raspberry Pi", "MATLAB/Simulink",
+      "ARM Cortex Programming", "FPGA Design"
+    ],
+    "EEE": [
+      "Power Systems Analysis", "Electrical Machines",
+      "Control Systems Engineering", "PLC & SCADA Programming",
+      "MATLAB/Simulink for EEE", "Renewable Energy Systems",
+      "Electric Vehicles & Battery Technology", "Smart Grid",
+      "Power Electronics", "High Voltage Engineering"
+    ],
+    "ME": [
+      "CAD with AutoCAD / SolidWorks", "CAM & CNC Programming",
+      "Finite Element Analysis (Ansys)", "3D Printing & Additive Manufacturing",
+      "MATLAB for Mechanical", "Robotics & Automation",
+      "Thermodynamic Simulations", "Product Design & Development"
+    ],
+    "CE": [
+      "AutoCAD for Civil Engineering", "Revit & BIM",
+      "STAAD Pro / ETABS Structural Analysis", "GIS & Remote Sensing",
+      "Construction Management Software",
+      "Site Safety & Quality Management"
+    ],
+    "CHEM": [
+      "Aspen Plus Process Simulation", "Process Safety & HAZOP",
+      "Process Design & Optimization", "Chemical Reaction Engineering",
+      "Environmental Compliance", "Six Sigma for Process Industries"
+    ],
+    "BT": [
+      "Bioinformatics Tools (BLAST, NCBI)", "Biostatistics & R",
+      "Molecular Biology Techniques", "Genomics & Proteomics",
+      "Python for Bioinformatics", "Computational Drug Discovery",
+      "Laboratory Information Systems"
+    ],
+    "EI": [
+      "LabVIEW & Virtual Instrumentation", "SCADA & PLC Programming",
+      "Sensor Calibration & Metrology", "Process Control Design",
+      "Industrial IoT", "Biomedical Instrumentation"
+    ]
+  },
+  "career": [
+    "Resume & CV Writing", "LinkedIn Profile Optimization",
+    "Personal Branding Online", "Technical Interview Preparation",
+    "HR Interview & Behavioural Questions", "Group Discussion Skills",
+    "Professional Networking", "Internship Search Strategies",
+    "GATE / GRE Preparation", "Higher Studies Planning (MS/MBA)",
+    "Freelancing Basics", "Entrepreneurship & Startups",
+    "Presentation Skills", "Digital Literacy",
+    "AI Literacy for Professionals", "Professional Email Writing"
+  ],
+  "life": [
+    "Communication — Verbal", "Communication — Written",
+    "Non-verbal Communication", "Active Listening", "Public Speaking",
+    "Emotional Intelligence", "Professional Networking",
+    "Teamwork & Collaboration", "Leadership Basics", "Conflict Resolution",
+    "Critical Thinking", "Problem Solving", "Decision Making", "Creativity",
+    "Time Management", "Discipline & Consistency", "Habit Building",
+    "Resilience & Mental Health", "Learning How to Learn",
+    "Productivity Tools (Notion, Trello)", "Financial Literacy",
+    "Basic Sales & Persuasion", "Negotiation", "Entrepreneurship Mindset"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "india": [
+    {
+      "id": "int_in_001", "name": "AICTE National Internship Portal", "url": "https://internship.aicte-india.org/",
+      "type": "Platform", "tags": ["Free", "Government", "India"],
+      "description": "India's official government internship portal by AICTE for engineering students."
+    },
+    {
+      "id": "int_in_002", "name": "Internshala", "url": "https://internshala.com/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "India's largest internship and fresher job platform with thousands of listings."
+    },
+    {
+      "id": "int_in_003", "name": "Unstop (formerly D2C)", "url": "https://unstop.com/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "Competitions, hackathons, and internships from top Indian and global companies."
+    },
+    {
+      "id": "int_in_004", "name": "NATS — Apprenticeship Training", "url": "https://www.nats.education.gov.in/",
+      "type": "Platform", "tags": ["Free", "Government", "India"],
+      "description": "National Apprenticeship Training Scheme — government-supported technical training."
+    },
+    {
+      "id": "int_in_005", "name": "LinkedIn Internships (India)", "url": "https://www.linkedin.com/jobs/internship-jobs/",
+      "type": "Platform", "tags": ["Free", "India", "Global"],
+      "description": "Search internship listings on LinkedIn — filter by India location and field."
+    },
+    {
+      "id": "int_in_006", "name": "LetsIntern", "url": "https://www.letsintern.com/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "Internship listings from Indian startups and companies across domains."
+    },
+    {
+      "id": "int_in_007", "name": "Twenty19", "url": "https://www.twenty19.com/",
+      "type": "Platform", "tags": ["Free", "India"],
+      "description": "Student-focused platform with internships, events, and skill courses."
+    }
+  ],
+  "global": [
+    {
+      "id": "int_gl_001", "name": "LinkedIn Internships (Global)", "url": "https://www.linkedin.com/jobs/internship-jobs/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Global internship listings across all industries and countries."
+    },
+    {
+      "id": "int_gl_002", "name": "Handshake", "url": "https://joinhandshake.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Student and recent graduate focused job/internship platform used by top universities."
+    },
+    {
+      "id": "int_gl_003", "name": "Forage", "url": "https://www.theforage.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Free virtual work experience programs from top companies — great for resume building."
+    },
+    {
+      "id": "int_gl_004", "name": "Parker Dewey", "url": "https://www.parkerdewey.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Micro-internship projects with companies — short, paid, and remote-friendly."
+    },
+    {
+      "id": "int_gl_005", "name": "Idealist", "url": "https://www.idealist.org/en/internships",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Internships at non-profits and social-impact organisations worldwide."
+    },
+    {
+      "id": "int_gl_006", "name": "Simplify", "url": "https://simplify.jobs/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "Auto-fill job and internship applications — aggregates top tech company listings."
+    },
+    {
+      "id": "int_gl_007", "name": "RippleMatch", "url": "https://ripplematch.com/",
+      "type": "Platform", "tags": ["Free", "Global"],
+      "description": "AI-powered early career matching platform for students and recent grads."
+    }
+  ],
+  "tips": [
+    "Start applying for internships from 2nd year onwards.",
+    "Build a GitHub profile before applying — companies will check it.",
+    "Complete at least one free NPTEL or Coursera certificate to strengthen your profile.",
+    "Use LinkedIn to connect with alumni from your college working at target companies.",
+    "Tailor your resume for each application — highlight relevant projects and skills.",
+    "Virtual internships (Forage, Remote OK) count as experience and are beginner-friendly.",
+    "Follow company career pages directly — many listings appear there first."
+  ]
+}
