@@ -4,7 +4,12 @@ app.py
 B.Tech Student Super-Hub — Main Entry Point
 
 Configures the Streamlit app and the sidebar navigation.
-Each section is a separate page module in pages/.
+Each section is a separate page module in sections/.
+
+NOTE: Page modules live in `sections/` (NOT `pages/`) to avoid Streamlit's
+built-in multipage auto-discovery, which would register every file in a
+`pages/` directory as a separate URL route and produce blank pages (the
+module-level code runs but show() is never called by Streamlit's runner).
 """
 
 import streamlit as st
@@ -18,21 +23,21 @@ st.set_page_config(
 )
 
 # ─── Import page modules ───────────────────────────────────────────────────────
-from pages.dashboard          import show as show_dashboard
-from pages.academic_hub       import show as show_academic_hub
-from pages.skills_hub         import show as show_skills_hub
-from pages.learning_resources import show as show_learning_resources
-from pages.coding_practice    import show as show_coding_practice
-from pages.project_hub        import show as show_project_hub
-from pages.courses_certificates import show as show_courses
-from pages.internship_hub     import show as show_internship_hub
-from pages.jobs_hub           import show as show_jobs_hub
-from pages.career_roadmaps    import show as show_career_roadmaps
-from pages.skill_tracker      import show as show_skill_tracker
-from pages.daily_tasks        import show as show_daily_tasks
-from pages.life_career_skills import show as show_life_career_skills
-from pages.ai_assistant       import show as show_ai_assistant
-from pages.search             import show as show_search
+from sections.dashboard          import show as show_dashboard
+from sections.academic_hub       import show as show_academic_hub
+from sections.skills_hub         import show as show_skills_hub
+from sections.learning_resources import show as show_learning_resources
+from sections.coding_practice    import show as show_coding_practice
+from sections.project_hub        import show as show_project_hub
+from sections.courses_certificates import show as show_courses
+from sections.internship_hub     import show as show_internship_hub
+from sections.jobs_hub           import show as show_jobs_hub
+from sections.career_roadmaps    import show as show_career_roadmaps
+from sections.skill_tracker      import show as show_skill_tracker
+from sections.daily_tasks        import show as show_daily_tasks
+from sections.life_career_skills import show as show_life_career_skills
+from sections.ai_assistant       import show as show_ai_assistant
+from sections.search             import show as show_search
 
 # ─── Navigation map ────────────────────────────────────────────────────────────
 PAGES = {

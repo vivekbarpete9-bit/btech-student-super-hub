@@ -612,7 +612,7 @@ def test_safe_key_removes_special_chars():
     # Load the module without running Streamlit
     spec = importlib.util.spec_from_file_location(
         "skill_tracker_mod",
-        os.path.join(PROJECT_ROOT, "pages", "skill_tracker.py")
+        os.path.join(PROJECT_ROOT, "sections", "skill_tracker.py")
     )
     mod = importlib.util.module_from_spec(spec)
     # Patch streamlit before exec so the import doesn't fail
