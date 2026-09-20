@@ -5,48 +5,180 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "C Programming", "Engineering Drawing", "English Communication"],
-            "resource_ids": ["res_001", "res_002", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "C Programming",
+              "Engineering Drawing",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Physics Lab",
+              "C Programming Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_002",
+              "res_031",
+              "res_003",
+              "res_033"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Engineering Chemistry", "Data Structures", "Digital Electronics", "Professional Communication"],
-            "resource_ids": ["res_004", "res_005"]
+            "subjects": [
+              "Mathematics-II",
+              "Engineering Chemistry",
+              "Data Structures",
+              "Digital Electronics",
+              "Professional Communication",
+              "Environmental Science (EVS)",
+              "Data Structures Lab",
+              "Digital Electronics Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_030",
+              "res_004",
+              "res_005",
+              "res_034",
+              "res_081"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Discrete Mathematics", "Object-Oriented Programming (Java)", "Computer Organization", "Operating Systems", "Database Management Systems"],
-            "resource_ids": ["res_006", "res_007", "res_008"]
+            "subjects": [
+              "Discrete Mathematics",
+              "Object-Oriented Programming (Java)",
+              "Computer Organization & Architecture",
+              "Operating Systems",
+              "Database Management Systems",
+              "OOP Lab (Java)",
+              "OS Lab"
+            ],
+            "resource_ids": [
+              "res_036",
+              "res_006",
+              "res_035",
+              "res_037",
+              "res_007",
+              "res_038",
+              "res_096",
+              "res_008",
+              "res_098",
+              "res_095"
+            ]
           },
           "4": {
-            "subjects": ["Algorithm Design & Analysis", "Computer Networks", "Software Engineering", "Theory of Computation", "Linux & Shell Scripting"],
-            "resource_ids": ["res_009", "res_010"]
+            "subjects": [
+              "Algorithm Design & Analysis",
+              "Computer Networks",
+              "Software Engineering",
+              "Theory of Computation",
+              "Linux & Shell Scripting",
+              "Indian Constitution",
+              "DSA Lab",
+              "Networks Lab"
+            ],
+            "resource_ids": [
+              "res_009",
+              "res_025",
+              "res_034",
+              "res_081",
+              "res_010",
+              "res_094",
+              "res_041",
+              "res_042",
+              "res_043",
+              "res_044"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["Compiler Design", "Web Technologies", "Machine Learning Basics", "Cloud Computing", "Information Security"],
-            "resource_ids": ["res_011", "res_012", "res_013"]
+            "subjects": [
+              "Compiler Design",
+              "Web Technologies",
+              "Machine Learning Basics",
+              "Cloud Computing",
+              "Information Security",
+              "Professional Ethics",
+              "Web Technologies Lab",
+              "ML Lab"
+            ],
+            "resource_ids": [
+              "res_082",
+              "res_011",
+              "res_045",
+              "res_046",
+              "res_012",
+              "res_086",
+              "res_084",
+              "res_083"
+            ]
           },
           "6": {
-            "subjects": ["Artificial Intelligence", "Big Data Analytics", "Mobile Application Development", "Distributed Systems", "Elective-I"],
-            "resource_ids": ["res_014"]
+            "subjects": [
+              "Artificial Intelligence",
+              "Big Data Analytics",
+              "Mobile Application Development",
+              "Distributed Systems",
+              "Elective-I",
+              "Mini Project",
+              "AI Lab",
+              "Mobile App Lab"
+            ],
+            "resource_ids": [
+              "res_012",
+              "res_014",
+              "res_047",
+              "res_048",
+              "res_049",
+              "res_050",
+              "res_053",
+              "res_085",
+              "res_086"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Deep Learning", "DevOps & Containers", "Elective-II", "Project Phase-I"],
-            "resource_ids": ["res_015"]
+            "subjects": [
+              "Deep Learning",
+              "DevOps & Containers",
+              "System Design",
+              "Elective-II",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_047",
+              "res_015",
+              "res_051",
+              "res_052",
+              "res_099",
+              "res_100"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-III"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-III"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -58,48 +190,171 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "C Programming", "Engineering Drawing", "English Communication"],
-            "resource_ids": ["res_001", "res_002", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "C Programming",
+              "Engineering Drawing",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Physics Lab",
+              "C Programming Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_002",
+              "res_031",
+              "res_003",
+              "res_033"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Engineering Chemistry", "Data Structures", "Digital Electronics", "Professional Communication"],
-            "resource_ids": ["res_004", "res_005"]
+            "subjects": [
+              "Mathematics-II",
+              "Engineering Chemistry",
+              "Data Structures",
+              "Digital Electronics",
+              "Professional Communication",
+              "Environmental Science (EVS)",
+              "Data Structures Lab",
+              "Digital Electronics Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_030",
+              "res_004",
+              "res_005",
+              "res_034",
+              "res_036",
+              "res_081"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Object-Oriented Programming", "Computer Networks", "Operating Systems", "Database Management Systems", "Web Programming"],
-            "resource_ids": ["res_006", "res_008", "res_011"]
+            "subjects": [
+              "Object-Oriented Programming",
+              "Computer Networks",
+              "Operating Systems",
+              "Database Management Systems",
+              "Web Programming",
+              "OOP Lab",
+              "DBMS Lab"
+            ],
+            "resource_ids": [
+              "res_006",
+              "res_035",
+              "res_010",
+              "res_094",
+              "res_007",
+              "res_096",
+              "res_008",
+              "res_098",
+              "res_095",
+              "res_011",
+              "res_045"
+            ]
           },
           "4": {
-            "subjects": ["Algorithm Design", "Software Engineering", "Information Security", "Linux Administration", "Cloud Fundamentals"],
-            "resource_ids": ["res_009", "res_013"]
+            "subjects": [
+              "Algorithm Design",
+              "Software Engineering",
+              "Information Security",
+              "Linux Administration",
+              "Cloud Fundamentals",
+              "Indian Constitution",
+              "DSA Lab",
+              "Linux Lab"
+            ],
+            "resource_ids": [
+              "res_009",
+              "res_025",
+              "res_034",
+              "res_081",
+              "res_037",
+              "res_041",
+              "res_043",
+              "res_044",
+              "res_083",
+              "res_084"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["Web Technologies", "Mobile Computing", "Data Warehousing", "Network Security", "Elective-I"],
-            "resource_ids": ["res_011", "res_013"]
+            "subjects": [
+              "Web Technologies",
+              "Mobile Computing",
+              "Data Warehousing & Mining",
+              "Network Security",
+              "Elective-I",
+              "Professional Ethics",
+              "Web Technologies Lab",
+              "Mobile App Lab"
+            ],
+            "resource_ids": [
+              "res_011",
+              "res_045",
+              "res_046",
+              "res_083",
+              "res_085",
+              "res_086"
+            ]
           },
           "6": {
-            "subjects": ["Cloud Computing", "IoT & Applications", "Data Science Basics", "DevOps", "Elective-II"],
-            "resource_ids": ["res_013", "res_015"]
+            "subjects": [
+              "Cloud Computing",
+              "IoT & Applications",
+              "Data Science Basics",
+              "DevOps",
+              "Elective-II",
+              "Mini Project"
+            ],
+            "resource_ids": [
+              "res_084",
+              "res_017",
+              "res_086",
+              "res_099",
+              "res_015",
+              "res_052"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Advanced Cloud", "Cybersecurity", "Elective-III", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "Advanced Cloud & Microservices",
+              "Cybersecurity",
+              "Elective-III",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_084",
+              "res_083",
+              "res_015"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-IV"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -111,48 +366,162 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "Python Programming", "Engineering Drawing", "English Communication"],
-            "resource_ids": ["res_001", "res_019", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "Python Programming",
+              "Engineering Drawing",
+              "English Communication",
+              "Workshop Practice",
+              "Python Lab",
+              "Engineering Physics Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_019",
+              "res_031",
+              "res_003",
+              "res_033"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II (Statistics & Probability)", "Linear Algebra", "Data Structures", "Digital Electronics", "Professional Communication"],
-            "resource_ids": ["res_001", "res_005"]
+            "subjects": [
+              "Mathematics-II (Statistics & Probability)",
+              "Linear Algebra",
+              "Data Structures",
+              "Digital Electronics",
+              "Professional Communication",
+              "Environmental Science (EVS)",
+              "Data Structures Lab",
+              "Statistics Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_028",
+              "res_005",
+              "res_034",
+              "res_081",
+              "res_036"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Database Management Systems", "Operating Systems", "Python for Data Science", "Statistical Computing", "Data Visualization"],
-            "resource_ids": ["res_008", "res_019", "res_012"]
+            "subjects": [
+              "Database Management Systems",
+              "Operating Systems",
+              "Python for Data Science",
+              "Statistical Computing",
+              "Data Visualization",
+              "Indian Constitution",
+              "Python Data Science Lab",
+              "DBMS Lab"
+            ],
+            "resource_ids": [
+              "res_008",
+              "res_095",
+              "res_098",
+              "res_019",
+              "res_086",
+              "res_099",
+              "res_100",
+              "res_007"
+            ]
           },
           "4": {
-            "subjects": ["Machine Learning", "Algorithm Design", "Big Data Analytics", "Cloud Computing Basics", "Elective-I"],
-            "resource_ids": ["res_012", "res_014"]
+            "subjects": [
+              "Machine Learning",
+              "Algorithm Design",
+              "Big Data Analytics",
+              "Cloud Computing Basics",
+              "Elective-I",
+              "ML Lab",
+              "Big Data Lab"
+            ],
+            "resource_ids": [
+              "res_012",
+              "res_009",
+              "res_025",
+              "res_034",
+              "res_081",
+              "res_014",
+              "res_084"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["Deep Learning", "Natural Language Processing", "Computer Vision", "MLOps", "Elective-II"],
-            "resource_ids": ["res_012"]
+            "subjects": [
+              "Deep Learning",
+              "Natural Language Processing",
+              "Computer Vision",
+              "MLOps",
+              "Elective-II",
+              "Professional Ethics",
+              "Deep Learning Lab",
+              "NLP Lab"
+            ],
+            "resource_ids": [
+              "res_047",
+              "res_048",
+              "res_049",
+              "res_051",
+              "res_052"
+            ]
           },
           "6": {
-            "subjects": ["Generative AI", "Data Engineering", "Responsible AI & Ethics", "AI Deployment", "Elective-III"],
-            "resource_ids": []
+            "subjects": [
+              "Generative AI",
+              "Data Engineering",
+              "Responsible AI & Ethics",
+              "AI Deployment",
+              "Elective-III",
+              "Mini Project"
+            ],
+            "resource_ids": [
+              "res_050",
+              "res_052",
+              "res_053",
+              "res_051"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["AI Research Methods", "Elective-IV", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "AI Research Methods",
+              "Advanced Topics in AI",
+              "Elective-IV",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_047",
+              "res_048",
+              "res_050",
+              "res_053"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-V"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-V"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -164,48 +533,154 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "Basic Electrical Engineering", "Engineering Drawing", "English Communication"],
-            "resource_ids": ["res_001", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "Basic Electrical Engineering",
+              "Engineering Drawing",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Physics Lab",
+              "Basic Electrical Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_031",
+              "res_032",
+              "res_003"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Engineering Chemistry", "Electronic Devices", "Digital Electronics", "C Programming"],
-            "resource_ids": ["res_002", "res_004"]
+            "subjects": [
+              "Mathematics-II",
+              "Engineering Chemistry",
+              "Electronic Devices & Circuits",
+              "Digital Electronics",
+              "C Programming",
+              "Environmental Science (EVS)",
+              "Electronics Lab",
+              "Digital Electronics Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_028",
+              "res_030",
+              "res_004",
+              "res_055",
+              "res_002",
+              "res_033"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Signals & Systems", "Analog Circuits", "Electromagnetic Theory", "Digital Signal Processing Basics", "Data Structures"],
-            "resource_ids": ["res_005"]
+            "subjects": [
+              "Signals & Systems",
+              "Analog Circuits",
+              "Electromagnetic Theory",
+              "Digital Signal Processing Basics",
+              "Data Structures",
+              "Indian Constitution",
+              "Signals & Systems Lab",
+              "Analog Circuits Lab"
+            ],
+            "resource_ids": [
+              "res_054",
+              "res_097",
+              "res_055",
+              "res_059",
+              "res_005",
+              "res_034",
+              "res_081"
+            ]
           },
           "4": {
-            "subjects": ["Communication Engineering", "Microprocessors & Microcontrollers", "VLSI Design", "Control Systems", "Computer Networks"],
-            "resource_ids": ["res_010"]
+            "subjects": [
+              "Communication Engineering",
+              "Microprocessors & Microcontrollers",
+              "VLSI Design",
+              "Control Systems",
+              "Computer Networks",
+              "Microprocessors Lab",
+              "VLSI Lab"
+            ],
+            "resource_ids": [
+              "res_010",
+              "res_094",
+              "res_058",
+              "res_056",
+              "res_057"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["Embedded Systems", "RF & Microwave Engineering", "Digital Communication", "DSP Algorithms", "Information Theory"],
-            "resource_ids": ["res_016"]
+            "subjects": [
+              "Embedded Systems",
+              "RF & Microwave Engineering",
+              "Digital Communication",
+              "DSP Algorithms",
+              "Information Theory & Coding",
+              "Professional Ethics",
+              "Embedded Systems Lab",
+              "DSP Lab"
+            ],
+            "resource_ids": [
+              "res_016",
+              "res_059",
+              "res_066"
+            ]
           },
           "6": {
-            "subjects": ["Wireless Communication", "IoT & Sensor Networks", "Image Processing", "MATLAB Applications", "Elective-I"],
-            "resource_ids": ["res_017"]
+            "subjects": [
+              "Wireless Communication",
+              "IoT & Sensor Networks",
+              "Image Processing",
+              "MATLAB Applications",
+              "Elective-I",
+              "IoT Lab",
+              "Image Processing Lab"
+            ],
+            "resource_ids": [
+              "res_017",
+              "res_066",
+              "res_087"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Advanced Communication Systems", "Elective-II", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "Advanced Communication Systems",
+              "FPGA Design & HDL",
+              "Elective-II",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_056"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-III"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-III"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -217,48 +692,156 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "Basic Electrical Engineering", "Engineering Drawing", "English Communication"],
-            "resource_ids": ["res_001", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "Basic Electrical Engineering",
+              "Engineering Drawing",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Physics Lab",
+              "Basic Electrical Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_031",
+              "res_032",
+              "res_003"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Engineering Chemistry", "Electronic Devices", "Digital Electronics", "C Programming"],
-            "resource_ids": ["res_002", "res_004"]
+            "subjects": [
+              "Mathematics-II",
+              "Engineering Chemistry",
+              "Electronic Devices",
+              "Digital Electronics",
+              "C Programming",
+              "Environmental Science (EVS)",
+              "Electronics Lab",
+              "Digital Electronics Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_028",
+              "res_030",
+              "res_004",
+              "res_055",
+              "res_002",
+              "res_033"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Electrical Machines-I", "Circuit Theory", "Analog Electronics", "Control Systems Basics", "Signals & Systems"],
-            "resource_ids": []
+            "subjects": [
+              "Electrical Machines-I",
+              "Circuit Theory",
+              "Analog Electronics",
+              "Control Systems Basics",
+              "Signals & Systems",
+              "Indian Constitution",
+              "Electrical Machines Lab",
+              "Circuit Theory Lab"
+            ],
+            "resource_ids": [
+              "res_054",
+              "res_097",
+              "res_055",
+              "res_057",
+              "res_032"
+            ]
           },
           "4": {
-            "subjects": ["Electrical Machines-II", "Power Systems", "Power Electronics", "Microprocessors", "Measurements & Instrumentation"],
-            "resource_ids": []
+            "subjects": [
+              "Electrical Machines-II",
+              "Power Systems",
+              "Power Electronics",
+              "Microprocessors",
+              "Measurements & Instrumentation",
+              "Power Electronics Lab",
+              "Measurements Lab"
+            ],
+            "resource_ids": [
+              "res_060",
+              "res_061",
+              "res_058",
+              "res_078"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["High Voltage Engineering", "Industrial Drives", "VLSI Design", "Renewable Energy Systems", "Elective-I"],
-            "resource_ids": []
+            "subjects": [
+              "High Voltage Engineering",
+              "Industrial Drives & Control",
+              "VLSI Design",
+              "Renewable Energy Systems",
+              "Elective-I",
+              "Professional Ethics",
+              "Power Systems Lab",
+              "Drives Lab"
+            ],
+            "resource_ids": [
+              "res_056",
+              "res_060",
+              "res_061",
+              "res_066"
+            ]
           },
           "6": {
-            "subjects": ["Power System Protection", "Smart Grid Technologies", "Embedded Systems", "Electric Vehicles Basics", "Elective-II"],
-            "resource_ids": ["res_016"]
+            "subjects": [
+              "Power System Protection",
+              "Smart Grid Technologies",
+              "Embedded Systems",
+              "Electric Vehicles & Battery Technology",
+              "PLC & SCADA Programming",
+              "Elective-II",
+              "Embedded Systems Lab",
+              "Simulation Lab (MATLAB)"
+            ],
+            "resource_ids": [
+              "res_016",
+              "res_060",
+              "res_066",
+              "res_080"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Advanced Power Systems", "Elective-III", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "Advanced Power Systems",
+              "Energy Auditing & Management",
+              "Elective-III",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_060",
+              "res_061",
+              "res_066"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-IV"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -270,48 +853,149 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "Engineering Drawing", "Workshop Technology", "English Communication"],
-            "resource_ids": ["res_001", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "Engineering Drawing",
+              "Workshop Technology",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Physics Lab",
+              "Engineering Drawing Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_031",
+              "res_003"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Engineering Chemistry", "Basic Electrical Engineering", "Thermodynamics Basics", "C Programming"],
-            "resource_ids": ["res_001", "res_002"]
+            "subjects": [
+              "Mathematics-II",
+              "Engineering Chemistry",
+              "Basic Electrical Engineering",
+              "Thermodynamics Basics",
+              "C Programming",
+              "Environmental Science (EVS)",
+              "Thermodynamics Lab",
+              "Basic Electrical Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_028",
+              "res_030",
+              "res_032",
+              "res_062",
+              "res_002",
+              "res_033"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Strength of Materials", "Fluid Mechanics", "Manufacturing Processes", "Applied Thermodynamics", "Kinematics of Machines"],
-            "resource_ids": []
+            "subjects": [
+              "Strength of Materials",
+              "Fluid Mechanics",
+              "Manufacturing Processes",
+              "Applied Thermodynamics",
+              "Kinematics of Machines",
+              "Indian Constitution",
+              "Strength of Materials Lab",
+              "Fluid Mechanics Lab"
+            ],
+            "resource_ids": [
+              "res_064",
+              "res_063",
+              "res_062",
+              "res_065"
+            ]
           },
           "4": {
-            "subjects": ["Machine Design", "Heat Transfer", "Dynamics of Machines", "Metrology & Quality", "Industrial Engineering"],
-            "resource_ids": []
+            "subjects": [
+              "Machine Design",
+              "Heat Transfer",
+              "Dynamics of Machines",
+              "Metrology & Quality",
+              "Industrial Engineering",
+              "Machine Design Lab",
+              "Heat Transfer Lab"
+            ],
+            "resource_ids": [
+              "res_089",
+              "res_065",
+              "res_062"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["CNC & Advanced Manufacturing", "CAD/CAM", "Finite Element Analysis", "Automobile Engineering", "Elective-I"],
-            "resource_ids": ["res_018"]
+            "subjects": [
+              "CNC & Advanced Manufacturing",
+              "CAD/CAM",
+              "Finite Element Analysis",
+              "Automobile Engineering",
+              "Elective-I",
+              "Professional Ethics",
+              "CAD/CAM Lab",
+              "FEA Lab"
+            ],
+            "resource_ids": [
+              "res_018",
+              "res_088",
+              "res_066"
+            ]
           },
           "6": {
-            "subjects": ["Robotics & Automation", "Refrigeration & Air Conditioning", "Power Plant Engineering", "MATLAB for Mechanical", "Elective-II"],
-            "resource_ids": []
+            "subjects": [
+              "Robotics & Automation",
+              "Refrigeration & Air Conditioning",
+              "Power Plant Engineering",
+              "MATLAB for Mechanical",
+              "Elective-II",
+              "Robotics Lab",
+              "Simulation Lab (MATLAB)"
+            ],
+            "resource_ids": [
+              "res_087",
+              "res_066",
+              "res_062"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Operations Research", "Elective-III", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "Operations Research",
+              "Non-Destructive Testing",
+              "Elective-III",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_088",
+              "res_066"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-IV"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -323,48 +1007,156 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "Engineering Drawing", "Surveying Basics", "English Communication"],
-            "resource_ids": ["res_001", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "Engineering Drawing",
+              "Surveying Basics",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Drawing Lab",
+              "Surveying Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_031",
+              "res_090",
+              "res_003"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Engineering Chemistry", "Basic Electrical Engineering", "Building Materials", "C Programming"],
-            "resource_ids": ["res_001", "res_002"]
+            "subjects": [
+              "Mathematics-II",
+              "Engineering Chemistry",
+              "Basic Electrical Engineering",
+              "Building Materials",
+              "C Programming",
+              "Environmental Science (EVS)",
+              "Basic Electrical Lab",
+              "Building Materials Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_028",
+              "res_030",
+              "res_032",
+              "res_002",
+              "res_033"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Structural Analysis", "Fluid Mechanics", "Concrete Technology", "Soil Mechanics", "Surveying"],
-            "resource_ids": []
+            "subjects": [
+              "Structural Analysis",
+              "Fluid Mechanics",
+              "Concrete Technology",
+              "Soil Mechanics",
+              "Surveying",
+              "Indian Constitution",
+              "Structural Analysis Lab",
+              "Soil Mechanics Lab"
+            ],
+            "resource_ids": [
+              "res_067",
+              "res_063",
+              "res_091",
+              "res_068",
+              "res_090",
+              "res_064"
+            ]
           },
           "4": {
-            "subjects": ["RCC Design", "Hydraulics", "Environmental Engineering", "Transportation Engineering", "Geotechnical Engineering"],
-            "resource_ids": []
+            "subjects": [
+              "RCC Design",
+              "Hydraulics",
+              "Environmental Engineering",
+              "Transportation Engineering",
+              "Geotechnical Engineering",
+              "Materials Testing Lab",
+              "Hydraulics Lab"
+            ],
+            "resource_ids": [
+              "res_067",
+              "res_063",
+              "res_069",
+              "res_068",
+              "res_064"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["Steel Design", "Water Resources Engineering", "Urban Planning", "AutoCAD for Civil", "Elective-I"],
-            "resource_ids": []
+            "subjects": [
+              "Steel Design",
+              "Water Resources Engineering",
+              "Urban Planning",
+              "AutoCAD for Civil",
+              "Elective-I",
+              "Professional Ethics",
+              "AutoCAD Lab",
+              "Structural Design Lab"
+            ],
+            "resource_ids": [
+              "res_070",
+              "res_067",
+              "res_088",
+              "res_064"
+            ]
           },
           "6": {
-            "subjects": ["Foundation Engineering", "Irrigation Engineering", "Quantity Surveying", "BIM & Revit", "Elective-II"],
-            "resource_ids": []
+            "subjects": [
+              "Foundation Engineering",
+              "Irrigation Engineering",
+              "Quantity Surveying & Estimation",
+              "BIM & Revit",
+              "Elective-II",
+              "Foundation Engineering Lab",
+              "Software Lab (Revit/AutoCAD)"
+            ],
+            "resource_ids": [
+              "res_067",
+              "res_068",
+              "res_070",
+              "res_090"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Construction Management", "Elective-III", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "Construction Management",
+              "GIS & Remote Sensing",
+              "Elective-III",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_067",
+              "res_088",
+              "res_069"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-IV"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -376,48 +1168,154 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "Engineering Chemistry", "Engineering Drawing", "English Communication"],
-            "resource_ids": ["res_001", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "Engineering Chemistry",
+              "Engineering Drawing",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Physics Lab",
+              "Chemistry Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_030",
+              "res_031",
+              "res_003"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Engineering Chemistry-II", "Basic Electrical Engineering", "Thermodynamics Basics", "C Programming"],
-            "resource_ids": ["res_001", "res_002"]
+            "subjects": [
+              "Mathematics-II",
+              "Engineering Chemistry-II",
+              "Basic Electrical Engineering",
+              "Thermodynamics Basics",
+              "C Programming",
+              "Environmental Science (EVS)",
+              "Thermodynamics Lab",
+              "Basic Electrical Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_028",
+              "res_030",
+              "res_032",
+              "res_062",
+              "res_002",
+              "res_033"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Fluid Mechanics", "Chemical Process Calculations", "Heat Transfer", "Mass Transfer", "Reaction Engineering Basics"],
-            "resource_ids": []
+            "subjects": [
+              "Fluid Mechanics",
+              "Chemical Process Calculations",
+              "Heat Transfer",
+              "Mass Transfer",
+              "Reaction Engineering Basics",
+              "Indian Constitution",
+              "Fluid Mechanics Lab",
+              "Heat Transfer Lab"
+            ],
+            "resource_ids": [
+              "res_063",
+              "res_065",
+              "res_072",
+              "res_071",
+              "res_062"
+            ]
           },
           "4": {
-            "subjects": ["Chemical Reaction Engineering", "Transport Phenomena", "Thermodynamics of Chemical Processes", "Instrumentation & Control", "Particle Technology"],
-            "resource_ids": []
+            "subjects": [
+              "Chemical Reaction Engineering",
+              "Transport Phenomena",
+              "Thermodynamics of Chemical Processes",
+              "Instrumentation & Control",
+              "Particle Technology",
+              "CRE Lab",
+              "Process Control Lab"
+            ],
+            "resource_ids": [
+              "res_071",
+              "res_065",
+              "res_062",
+              "res_078",
+              "res_072"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["Process Equipment Design", "Chemical Plant Design", "Process Safety & Hazard Analysis", "Environmental Engineering", "Elective-I"],
-            "resource_ids": []
+            "subjects": [
+              "Process Equipment Design",
+              "Chemical Plant Design",
+              "Process Safety & Hazard Analysis",
+              "Environmental Engineering",
+              "Elective-I",
+              "Professional Ethics",
+              "Process Design Lab",
+              "Safety Lab"
+            ],
+            "resource_ids": [
+              "res_071",
+              "res_063",
+              "res_065",
+              "res_069",
+              "res_072"
+            ]
           },
           "6": {
-            "subjects": ["Process Control & Simulation", "Biochemical Engineering", "Polymer Engineering", "Aspen Plus Simulation", "Elective-II"],
-            "resource_ids": []
+            "subjects": [
+              "Process Control & Simulation",
+              "Biochemical Engineering",
+              "Polymer Engineering",
+              "Aspen Plus Simulation",
+              "Elective-II",
+              "Simulation Lab (Aspen Plus)"
+            ],
+            "resource_ids": [
+              "res_073",
+              "res_078",
+              "res_066"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Advanced Process Design", "Elective-III", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "Advanced Process Design",
+              "Six Sigma & Quality Management",
+              "Elective-III",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_073",
+              "res_078"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-IV"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -429,48 +1327,152 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "Engineering Chemistry", "Engineering Drawing", "English Communication"],
-            "resource_ids": ["res_001", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "Engineering Chemistry",
+              "Engineering Drawing",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Physics Lab",
+              "Chemistry Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_030",
+              "res_031",
+              "res_003"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Biochemistry", "Microbiology Basics", "Cell Biology", "C Programming"],
-            "resource_ids": ["res_001", "res_002"]
+            "subjects": [
+              "Mathematics-II",
+              "Biochemistry",
+              "Microbiology Basics",
+              "Cell Biology",
+              "C Programming",
+              "Environmental Science (EVS)",
+              "Biochemistry Lab",
+              "Microbiology Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_028",
+              "res_076",
+              "res_002",
+              "res_033"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Molecular Biology", "Genetics", "Biostatistics", "Biochemical Engineering", "Microbial Biotechnology"],
-            "resource_ids": []
+            "subjects": [
+              "Molecular Biology",
+              "Genetics",
+              "Biostatistics",
+              "Biochemical Engineering",
+              "Microbial Biotechnology",
+              "Indian Constitution",
+              "Molecular Biology Lab",
+              "Genetics Lab"
+            ],
+            "resource_ids": [
+              "res_074",
+              "res_077",
+              "res_028",
+              "res_076",
+              "res_063"
+            ]
           },
           "4": {
-            "subjects": ["Genetic Engineering", "Fermentation Technology", "Bioinformatics Basics", "Immunology", "Downstream Processing"],
-            "resource_ids": []
+            "subjects": [
+              "Genetic Engineering",
+              "Fermentation Technology",
+              "Bioinformatics Basics",
+              "Immunology",
+              "Downstream Processing",
+              "Genetic Engineering Lab",
+              "Bioinformatics Lab"
+            ],
+            "resource_ids": [
+              "res_074",
+              "res_075",
+              "res_093",
+              "res_077",
+              "res_092"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["Computational Biology", "Genomics & Proteomics", "Plant Biotechnology", "Bioprocess Engineering", "Elective-I"],
-            "resource_ids": []
+            "subjects": [
+              "Computational Biology",
+              "Genomics & Proteomics",
+              "Plant Biotechnology",
+              "Bioprocess Engineering",
+              "Elective-I",
+              "Professional Ethics",
+              "Computational Biology Lab",
+              "Genomics Lab"
+            ],
+            "resource_ids": [
+              "res_075",
+              "res_092",
+              "res_093",
+              "res_076"
+            ]
           },
           "6": {
-            "subjects": ["Industrial Biotechnology", "Nanobiotechnology", "Regulatory Affairs", "Bioethics", "Elective-II"],
-            "resource_ids": []
+            "subjects": [
+              "Industrial Biotechnology",
+              "Nanobiotechnology",
+              "Regulatory Affairs & Bioethics",
+              "Python for Bioinformatics",
+              "Elective-II",
+              "Industrial Biotech Lab"
+            ],
+            "resource_ids": [
+              "res_075",
+              "res_093",
+              "res_019"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Advanced Bioinformatics", "Elective-III", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "Advanced Bioinformatics",
+              "Drug Design & Discovery",
+              "Elective-III",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_075",
+              "res_092",
+              "res_074"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-IV"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }
@@ -482,48 +1484,156 @@
       "1": {
         "semesters": {
           "1": {
-            "subjects": ["Mathematics-I", "Engineering Physics", "Basic Electrical Engineering", "Engineering Drawing", "English Communication"],
-            "resource_ids": ["res_001", "res_003"]
+            "subjects": [
+              "Mathematics-I",
+              "Engineering Physics",
+              "Basic Electrical Engineering",
+              "Engineering Drawing",
+              "English Communication",
+              "Workshop Practice",
+              "Engineering Physics Lab",
+              "Basic Electrical Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_029",
+              "res_031",
+              "res_032",
+              "res_003"
+            ]
           },
           "2": {
-            "subjects": ["Mathematics-II", "Engineering Chemistry", "Electronic Devices", "Digital Electronics", "C Programming"],
-            "resource_ids": ["res_002", "res_004"]
+            "subjects": [
+              "Mathematics-II",
+              "Engineering Chemistry",
+              "Electronic Devices",
+              "Digital Electronics",
+              "C Programming",
+              "Environmental Science (EVS)",
+              "Electronics Lab",
+              "Digital Electronics Lab"
+            ],
+            "resource_ids": [
+              "res_001",
+              "res_026",
+              "res_027",
+              "res_028",
+              "res_030",
+              "res_004",
+              "res_055",
+              "res_002",
+              "res_033"
+            ]
           }
         }
       },
       "2": {
         "semesters": {
           "3": {
-            "subjects": ["Signals & Systems", "Transducers & Sensors", "Analog Electronics", "Process Control Basics", "Microprocessors"],
-            "resource_ids": []
+            "subjects": [
+              "Signals & Systems",
+              "Transducers & Sensors",
+              "Analog Electronics",
+              "Process Control Basics",
+              "Microprocessors",
+              "Indian Constitution",
+              "Signals & Systems Lab",
+              "Transducers Lab"
+            ],
+            "resource_ids": [
+              "res_054",
+              "res_097",
+              "res_055",
+              "res_078",
+              "res_058"
+            ]
           },
           "4": {
-            "subjects": ["Industrial Instrumentation", "Control Systems", "Data Acquisition Systems", "Communication Systems", "Computer Networks"],
-            "resource_ids": ["res_010"]
+            "subjects": [
+              "Industrial Instrumentation",
+              "Control Systems",
+              "Data Acquisition Systems",
+              "Communication Systems",
+              "Computer Networks",
+              "Instrumentation Lab",
+              "Control Systems Lab"
+            ],
+            "resource_ids": [
+              "res_010",
+              "res_094",
+              "res_057",
+              "res_058",
+              "res_078"
+            ]
           }
         }
       },
       "3": {
         "semesters": {
           "5": {
-            "subjects": ["Advanced Process Control", "SCADA & PLC", "Analytical Instrumentation", "Biomedical Instrumentation", "Elective-I"],
-            "resource_ids": []
+            "subjects": [
+              "Advanced Process Control",
+              "SCADA & PLC",
+              "Analytical Instrumentation",
+              "Biomedical Instrumentation",
+              "Elective-I",
+              "Professional Ethics",
+              "SCADA Lab",
+              "Biomedical Instrumentation Lab"
+            ],
+            "resource_ids": [
+              "res_078",
+              "res_080",
+              "res_059",
+              "res_016"
+            ]
           },
           "6": {
-            "subjects": ["Virtual Instrumentation (LabVIEW)", "Distributed Control Systems", "Embedded Systems", "IoT for Instrumentation", "Elective-II"],
-            "resource_ids": ["res_016", "res_017"]
+            "subjects": [
+              "Virtual Instrumentation (LabVIEW)",
+              "Distributed Control Systems",
+              "Embedded Systems",
+              "IoT for Instrumentation",
+              "Elective-II",
+              "LabVIEW Lab",
+              "IoT Lab"
+            ],
+            "resource_ids": [
+              "res_016",
+              "res_017",
+              "res_079",
+              "res_080"
+            ]
           }
         }
       },
       "4": {
         "semesters": {
           "7": {
-            "subjects": ["Smart Sensors & MEMS", "Elective-III", "Project Phase-I"],
-            "resource_ids": []
+            "subjects": [
+              "Smart Sensors & MEMS",
+              "Industrial IoT & Automation",
+              "Elective-III",
+              "Project Phase-I"
+            ],
+            "resource_ids": [
+              "res_017",
+              "res_080",
+              "res_078"
+            ]
           },
           "8": {
-            "subjects": ["Project Phase-II", "Internship / Industry Training", "Elective-IV"],
-            "resource_ids": []
+            "subjects": [
+              "Project Phase-II",
+              "Internship / Industry Training",
+              "Elective-IV"
+            ],
+            "resource_ids": [
+              "res_022",
+              "res_242",
+              "res_209"
+            ]
           }
         }
       }

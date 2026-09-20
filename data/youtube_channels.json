@@ -1,202 +1,1432 @@
 [
   {
-    "id": "yt_001", "name": "freeCodeCamp.org", "url": "https://www.youtube.com/@freecodecamp",
-    "category": "Programming", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Full-length free coding courses — Python, JavaScript, React, DSA, and more."
+    "id": "yt_001",
+    "name": "freeCodeCamp.org",
+    "url": "https://www.youtube.com/@freecodecamp",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Full-length free coding courses — Python, JavaScript, React, DSA, and more.",
+    "skills": [
+      "Python Programming",
+      "JavaScript (Frontend)",
+      "HTML & CSS",
+      "React",
+      "Node.js",
+      "Data Structures & Algorithms (DSA)",
+      "C Programming",
+      "SQL",
+      "Data Analysis",
+      "Machine Learning",
+      "Docker & Kubernetes",
+      "Backend Development",
+      "Full Stack Development",
+      "Git & GitHub",
+      "Computer Networks",
+      "Linux & Command Line",
+      "Bash / Shell Scripting",
+      "TypeScript",
+      "Django",
+      "Flask",
+      "FastAPI",
+      "Express.js"
+    ]
   },
   {
-    "id": "yt_002", "name": "CodeWithHarry", "url": "https://www.youtube.com/@CodeWithHarry",
-    "category": "Programming", "tags": ["Free", "YouTube", "Beginner", "India"],
-    "type": "Channel", "description": "Hindi tutorials on Python, web dev, C++, and more. Most popular Indian coding channel."
+    "id": "yt_002",
+    "name": "CodeWithHarry",
+    "url": "https://www.youtube.com/@CodeWithHarry",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Hindi tutorials on Python, web dev, C++, and more. Most popular Indian coding channel.",
+    "skills": [
+      "Python Programming",
+      "C Programming",
+      "C++ Programming",
+      "JavaScript (Frontend)",
+      "HTML & CSS",
+      "Java Programming",
+      "SQL",
+      "Web Security",
+      "Django",
+      "Backend Development",
+      "Full Stack Development",
+      "Data Structures & Algorithms (DSA)"
+    ]
   },
   {
-    "id": "yt_003", "name": "Apna College", "url": "https://www.youtube.com/@ApnaCollegeOfficial",
-    "category": "Programming", "tags": ["Free", "YouTube", "Beginner", "India"],
-    "type": "Channel", "description": "Hindi DSA and Java programming courses designed for B.Tech students and placements."
+    "id": "yt_003",
+    "name": "Apna College",
+    "url": "https://www.youtube.com/@ApnaCollegeOfficial",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Hindi DSA and Java programming courses designed for B.Tech students and placements.",
+    "skills": [
+      "Java Programming",
+      "C++ Programming",
+      "Data Structures & Algorithms (DSA)",
+      "Python Programming",
+      "SQL",
+      "Object-Oriented Programming (OOP)",
+      "GATE / GRE Preparation"
+    ]
   },
   {
-    "id": "yt_004", "name": "Traversy Media", "url": "https://www.youtube.com/@TraversyMedia",
-    "category": "Programming", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Crash courses on web development technologies — HTML, CSS, React, Node, and more."
+    "id": "yt_004",
+    "name": "Traversy Media",
+    "url": "https://www.youtube.com/@TraversyMedia",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Crash courses on web development technologies — HTML, CSS, React, Node, and more.",
+    "skills": [
+      "HTML & CSS",
+      "JavaScript (Frontend)",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Full Stack Development",
+      "Backend Development",
+      "REST APIs",
+      "TypeScript",
+      "Next.js",
+      "Flutter",
+      "Mobile Development"
+    ]
   },
   {
-    "id": "yt_005", "name": "The Net Ninja", "url": "https://www.youtube.com/@NetNinja",
-    "category": "Programming", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Short, well-structured web dev tutorial series — React, Vue, Django, Firebase."
+    "id": "yt_005",
+    "name": "The Net Ninja",
+    "url": "https://www.youtube.com/@NetNinja",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Short, well-structured web dev tutorial series — React, Vue, Django, Firebase.",
+    "skills": [
+      "JavaScript (Frontend)",
+      "React",
+      "Vue",
+      "Django",
+      "Node.js",
+      "HTML & CSS",
+      "TypeScript",
+      "Flutter",
+      "Firebase",
+      "Next.js",
+      "GraphQL",
+      "Full Stack Development",
+      "Mobile Development"
+    ]
   },
   {
-    "id": "yt_006", "name": "Programming with Mosh", "url": "https://www.youtube.com/@programmingwithmosh",
-    "category": "Programming", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Clean beginner tutorials for Python, JavaScript, React, SQL, and more."
+    "id": "yt_006",
+    "name": "Programming with Mosh",
+    "url": "https://www.youtube.com/@programmingwithmosh",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Clean beginner tutorials for Python, JavaScript, React, SQL, and more.",
+    "skills": [
+      "Python Programming",
+      "JavaScript (Frontend)",
+      "React",
+      "SQL",
+      "C++ Programming",
+      "Java Programming",
+      "Node.js",
+      "HTML & CSS",
+      "Object-Oriented Programming (OOP)",
+      "Data Structures & Algorithms (DSA)"
+    ]
   },
   {
-    "id": "yt_007", "name": "The Coding Train", "url": "https://www.youtube.com/@TheCodingTrain",
-    "category": "Programming", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Creative coding with p5.js and Processing — algorithms, simulations, and art."
+    "id": "yt_007",
+    "name": "The Coding Train",
+    "url": "https://www.youtube.com/@TheCodingTrain",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Creative coding with p5.js and Processing — algorithms, simulations, and art.",
+    "skills": [
+      "JavaScript (Frontend)",
+      "Python Programming",
+      "Algorithms",
+      "Machine Learning",
+      "Creativity",
+      "Problem Solving"
+    ]
   },
   {
-    "id": "yt_008", "name": "Neso Academy", "url": "https://www.youtube.com/@nesoacademy",
-    "category": "Core CS / B.Tech", "tags": ["Free", "YouTube", "Beginner", "India"],
-    "type": "Channel", "description": "Detailed lectures on Electronics, Digital Electronics, C, and Networks for engineering students."
+    "id": "yt_008",
+    "name": "Neso Academy",
+    "url": "https://www.youtube.com/@nesoacademy",
+    "category": "Core CS / B.Tech",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Detailed lectures on Electronics, Digital Electronics, C, and Networks for engineering students.",
+    "skills": [
+      "Computer Networks",
+      "Digital Electronics",
+      "C Programming",
+      "Operating Systems",
+      "Database Management Systems (DBMS)",
+      "Computer Architecture",
+      "Communication Systems",
+      "Signals & Systems",
+      "GATE / GRE Preparation",
+      "Electronic Circuits",
+      "Embedded Systems & Microcontrollers"
+    ]
   },
   {
-    "id": "yt_009", "name": "Gate Smashers", "url": "https://www.youtube.com/@GateSmashers",
-    "category": "Core CS / B.Tech", "tags": ["Free", "YouTube", "Beginner", "India"],
-    "type": "Channel", "description": "OS, DBMS, Networks, TOC, and GATE preparation lectures in Hindi/English."
+    "id": "yt_009",
+    "name": "Gate Smashers",
+    "url": "https://www.youtube.com/@GateSmashers",
+    "category": "Core CS / B.Tech",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "OS, DBMS, Networks, TOC, and GATE preparation lectures in Hindi/English.",
+    "skills": [
+      "Operating Systems",
+      "Database Management Systems (DBMS)",
+      "Computer Networks",
+      "Theory of Computation",
+      "Compiler Design",
+      "Data Structures & Algorithms (DSA)",
+      "GATE / GRE Preparation",
+      "Software Engineering",
+      "Computer Architecture"
+    ]
   },
   {
-    "id": "yt_010", "name": "Jenny's Lectures CS/IT", "url": "https://www.youtube.com/@JennyslecturesCSIT",
-    "category": "Core CS / B.Tech", "tags": ["Free", "YouTube", "Beginner", "India"],
-    "type": "Channel", "description": "Clear CS/IT lectures covering algorithms, programming, and engineering subjects."
+    "id": "yt_010",
+    "name": "Jenny's Lectures CS/IT",
+    "url": "https://www.youtube.com/@JennyslecturesCSIT",
+    "category": "Core CS / B.Tech",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Clear CS/IT lectures covering algorithms, programming, and engineering subjects.",
+    "skills": [
+      "Algorithms",
+      "Data Structures & Algorithms (DSA)",
+      "C Programming",
+      "Python Programming",
+      "Operating Systems",
+      "GATE / GRE Preparation",
+      "Computer Architecture",
+      "Software Engineering"
+    ]
   },
   {
-    "id": "yt_011", "name": "Abdul Bari", "url": "https://www.youtube.com/@abdul_bari",
-    "category": "Core CS / B.Tech", "tags": ["Free", "YouTube", "Intermediate", "India"],
-    "type": "Channel", "description": "Deep-dive algorithm analysis and data structures — widely used for GATE prep."
+    "id": "yt_011",
+    "name": "Abdul Bari",
+    "url": "https://www.youtube.com/@abdul_bari",
+    "category": "Core CS / B.Tech",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Deep-dive algorithm analysis and data structures — widely used for GATE prep.",
+    "skills": [
+      "Data Structures & Algorithms (DSA)",
+      "Algorithms",
+      "GATE / GRE Preparation",
+      "Compiler Design",
+      "Theory of Computation"
+    ]
   },
   {
-    "id": "yt_012", "name": "take U forward (Striver)", "url": "https://www.youtube.com/@takeUforward",
-    "category": "DSA", "tags": ["Free", "YouTube", "Intermediate", "India"],
-    "type": "Channel", "description": "SDE Sheet, DSA playlists, and placement prep — very popular for interview preparation."
+    "id": "yt_012",
+    "name": "take U forward (Striver)",
+    "url": "https://www.youtube.com/@takeUforward",
+    "category": "DSA",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "SDE Sheet, DSA playlists, and placement prep — very popular for interview preparation.",
+    "skills": [
+      "Data Structures & Algorithms (DSA)",
+      "Competitive Programming Strategy",
+      "Technical Interview Preparation",
+      "Java Programming",
+      "System Design",
+      "Problem Solving"
+    ]
   },
   {
-    "id": "yt_013", "name": "Kunal Kushwaha", "url": "https://www.youtube.com/@KunalKushwaha",
-    "category": "DSA", "tags": ["Free", "YouTube", "Beginner", "India"],
-    "type": "Channel", "description": "Free DSA bootcamp, open source, and developer advocacy content."
+    "id": "yt_013",
+    "name": "Kunal Kushwaha",
+    "url": "https://www.youtube.com/@KunalKushwaha",
+    "category": "DSA",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Free DSA bootcamp, open source, and developer advocacy content.",
+    "skills": [
+      "Data Structures & Algorithms (DSA)",
+      "Java Programming",
+      "Open Source Contribution",
+      "Git & GitHub",
+      "Technical Interview Preparation",
+      "Problem Solving"
+    ]
   },
   {
-    "id": "yt_014", "name": "Two Minute Papers", "url": "https://www.youtube.com/@TwoMinutePapers",
-    "category": "AI / Technology", "tags": ["Free", "YouTube", "Intermediate", "Global"],
-    "type": "Channel", "description": "Quick, engaging summaries of cutting-edge AI research papers."
+    "id": "yt_014",
+    "name": "Two Minute Papers",
+    "url": "https://www.youtube.com/@TwoMinutePapers",
+    "category": "AI / Technology",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Quick, engaging summaries of cutting-edge AI research papers.",
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Generative AI",
+      "AI Research Methods",
+      "Reinforcement Learning",
+      "Computer Vision",
+      "Natural Language Processing (NLP)",
+      "Explainable AI (XAI)"
+    ]
   },
   {
-    "id": "yt_015", "name": "Computerphile", "url": "https://www.youtube.com/@Computerphile",
-    "category": "AI / Technology", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "University of Nottingham CS professors explain computing concepts accessibly."
+    "id": "yt_015",
+    "name": "Computerphile",
+    "url": "https://www.youtube.com/@Computerphile",
+    "category": "AI / Technology",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "University of Nottingham CS professors explain computing concepts accessibly.",
+    "skills": [
+      "Computer Networks",
+      "Operating Systems",
+      "Cybersecurity Fundamentals",
+      "Algorithms",
+      "Machine Learning",
+      "Natural Language Processing (NLP)",
+      "Web Security",
+      "Cryptography",
+      "AI Literacy for Professionals"
+    ]
   },
   {
-    "id": "yt_016", "name": "AI Explained", "url": "https://www.youtube.com/@aiexplained-official",
-    "category": "AI / Technology", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Clear breakdowns of AI developments, research, and their real-world implications."
+    "id": "yt_016",
+    "name": "AI Explained",
+    "url": "https://www.youtube.com/@aiexplained-official",
+    "category": "AI / Technology",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Clear breakdowns of AI developments, research, and their real-world implications.",
+    "skills": [
+      "Generative AI",
+      "AI Literacy for Professionals",
+      "Machine Learning",
+      "Deep Learning",
+      "AI Agents",
+      "Responsible AI",
+      "Prompt Engineering"
+    ]
   },
   {
-    "id": "yt_017", "name": "Matt Wolfe", "url": "https://www.youtube.com/@mreflow",
-    "category": "AI / Technology", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Practical AI tools, news, and tutorials for creators and professionals."
+    "id": "yt_017",
+    "name": "Matt Wolfe",
+    "url": "https://www.youtube.com/@mreflow",
+    "category": "AI / Technology",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Practical AI tools, news, and tutorials for creators and professionals.",
+    "skills": [
+      "Generative AI",
+      "AI Literacy for Professionals",
+      "Content Creation",
+      "Prompt Engineering",
+      "AI Agents",
+      "Digital Marketing"
+    ]
   },
   {
-    "id": "yt_018", "name": "Ali Abdaal", "url": "https://www.youtube.com/@aliabdaal",
-    "category": "Productivity / Career", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Ex-doctor turned YouTuber on productivity, study techniques, and building a career you love."
+    "id": "yt_018",
+    "name": "Ali Abdaal",
+    "url": "https://www.youtube.com/@aliabdaal",
+    "category": "Productivity / Career",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Ex-doctor turned YouTuber on productivity, study techniques, and building a career you love.",
+    "skills": [
+      "Productivity Tools (Notion, Trello)",
+      "Time Management",
+      "Learning How to Learn",
+      "Habit Building",
+      "Personal Branding Online",
+      "Freelancing Basics",
+      "Technical Blogging & Portfolio Building",
+      "Discipline & Consistency",
+      "Growth Mindset",
+      "Career Planning"
+    ]
   },
   {
-    "id": "yt_019", "name": "Thomas Frank", "url": "https://www.youtube.com/@Thomasfrank",
-    "category": "Productivity / Career", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Practical student productivity, study skills, and college success advice."
+    "id": "yt_019",
+    "name": "Thomas Frank",
+    "url": "https://www.youtube.com/@Thomasfrank",
+    "category": "Productivity / Career",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Practical student productivity, study skills, and college success advice.",
+    "skills": [
+      "Productivity Tools (Notion, Trello)",
+      "Time Management",
+      "Learning How to Learn",
+      "Habit Building",
+      "Discipline & Consistency",
+      "Study Skills"
+    ]
   },
   {
-    "id": "yt_020", "name": "Ankur Warikoo", "url": "https://www.youtube.com/@warikoo",
-    "category": "Productivity / Career", "tags": ["Free", "YouTube", "Beginner", "India"],
-    "type": "Channel", "description": "Indian entrepreneur sharing practical career, personal finance, and life advice for students."
+    "id": "yt_020",
+    "name": "Ankur Warikoo",
+    "url": "https://www.youtube.com/@warikoo",
+    "category": "Productivity / Career",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Indian entrepreneur sharing practical career, personal finance, and life advice for students.",
+    "skills": [
+      "Career Planning",
+      "Financial Literacy",
+      "Entrepreneurship & Startups",
+      "Personal Branding Online",
+      "Internship Search Strategies",
+      "Resume & CV Writing",
+      "LinkedIn Profile Optimization",
+      "Freelancing Basics",
+      "Decision Making",
+      "Leadership Basics",
+      "Entrepreneurship Mindset"
+    ]
   },
   {
-    "id": "yt_021", "name": "The Art of Improvement", "url": "https://www.youtube.com/@TheArtofImprovement",
-    "category": "Productivity / Career", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Science-backed videos on habits, decision making, and self-improvement."
+    "id": "yt_021",
+    "name": "The Art of Improvement",
+    "url": "https://www.youtube.com/@TheArtofImprovement",
+    "category": "Productivity / Career",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Science-backed videos on habits, decision making, and self-improvement.",
+    "skills": [
+      "Decision Making",
+      "Habit Building",
+      "Critical Thinking",
+      "Growth Mindset",
+      "Emotional Intelligence",
+      "Resilience & Mental Health",
+      "Problem Solving",
+      "Productivity Tools (Notion, Trello)"
+    ]
   },
   {
-    "id": "yt_022", "name": "Improvement Pill", "url": "https://www.youtube.com/@ImprovementPill",
-    "category": "Productivity / Career", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Short, impactful videos on habits, discipline, and productivity."
+    "id": "yt_022",
+    "name": "Improvement Pill",
+    "url": "https://www.youtube.com/@ImprovementPill",
+    "category": "Productivity / Career",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Short, impactful videos on habits, discipline, and productivity.",
+    "skills": [
+      "Habit Building",
+      "Discipline & Consistency",
+      "Time Management",
+      "Stress Management",
+      "Growth Mindset",
+      "Resilience & Mental Health"
+    ]
   },
   {
-    "id": "yt_023", "name": "Alex Hormozi", "url": "https://www.youtube.com/@AlexHormozi",
-    "category": "Business", "tags": ["Free", "YouTube", "Intermediate", "Global"],
-    "type": "Channel", "description": "Business, sales, and entrepreneurship advice from a founder who scaled multiple companies."
+    "id": "yt_023",
+    "name": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi",
+    "category": "Business",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Business, sales, and entrepreneurship advice from a founder who scaled multiple companies.",
+    "skills": [
+      "Entrepreneurship & Startups",
+      "Basic Sales & Persuasion",
+      "Entrepreneurship Mindset",
+      "Negotiation",
+      "Personal Branding Online",
+      "Leadership Basics",
+      "Content Creation"
+    ]
   },
   {
-    "id": "yt_024", "name": "Valuetainment", "url": "https://www.youtube.com/@Valuetainment",
-    "category": "Business", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Entrepreneurship, business strategy, and interviews with successful founders."
+    "id": "yt_024",
+    "name": "Valuetainment",
+    "url": "https://www.youtube.com/@Valuetainment",
+    "category": "Business",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Entrepreneurship, business strategy, and interviews with successful founders.",
+    "skills": [
+      "Entrepreneurship & Startups",
+      "Entrepreneurship Mindset",
+      "Leadership Basics",
+      "Basic Sales & Persuasion",
+      "Decision Making",
+      "Career Planning"
+    ]
   },
   {
-    "id": "yt_025", "name": "Stanford GSB", "url": "https://www.youtube.com/@stanfordgsb",
-    "category": "Business", "tags": ["Free", "YouTube", "Advanced", "Global"],
-    "type": "Channel", "description": "Stanford Graduate School of Business — talks, research, and entrepreneurship."
+    "id": "yt_025",
+    "name": "Stanford GSB",
+    "url": "https://www.youtube.com/@stanfordgsb",
+    "category": "Business",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Advanced",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Stanford Graduate School of Business — talks, research, and entrepreneurship.",
+    "skills": [
+      "Entrepreneurship & Startups",
+      "Leadership Basics",
+      "Higher Studies Planning (MS/MBA)",
+      "Decision Making",
+      "Product Management",
+      "Entrepreneurship Mindset"
+    ]
   },
   {
-    "id": "yt_026", "name": "Harvard Business Review", "url": "https://www.youtube.com/@HarvardBusinessReview",
-    "category": "Business", "tags": ["Free", "YouTube", "Intermediate", "Global"],
-    "type": "Channel", "description": "Management ideas, leadership lessons, and business insights from HBR."
+    "id": "yt_026",
+    "name": "Harvard Business Review",
+    "url": "https://www.youtube.com/@HarvardBusinessReview",
+    "category": "Business",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Management ideas, leadership lessons, and business insights from HBR.",
+    "skills": [
+      "Leadership Basics",
+      "Teamwork & Collaboration",
+      "Decision Making",
+      "Emotional Intelligence",
+      "Professional Networking",
+      "Entrepreneurship & Startups"
+    ]
   },
   {
-    "id": "yt_027", "name": "TED", "url": "https://www.youtube.com/@TED",
-    "category": "Communication", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Ideas worth spreading — talks on technology, science, design, and society."
+    "id": "yt_027",
+    "name": "TED",
+    "url": "https://www.youtube.com/@TED",
+    "category": "Communication",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Ideas worth spreading — talks on technology, science, design, and society.",
+    "skills": [
+      "Public Speaking",
+      "Presentation Skills",
+      "Critical Thinking",
+      "Leadership Basics",
+      "Creativity",
+      "Communication — Verbal",
+      "AI Literacy for Professionals",
+      "Emotional Intelligence"
+    ]
   },
   {
-    "id": "yt_028", "name": "TED-Ed", "url": "https://www.youtube.com/@TEDEd",
-    "category": "Communication", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Animated educational lessons on science, history, psychology, and more."
+    "id": "yt_028",
+    "name": "TED-Ed",
+    "url": "https://www.youtube.com/@TEDEd",
+    "category": "Communication",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Animated educational lessons on science, history, psychology, and more.",
+    "skills": [
+      "Critical Thinking",
+      "Learning How to Learn",
+      "Problem Solving",
+      "Creativity",
+      "Communication — Verbal",
+      "AI Literacy for Professionals"
+    ]
   },
   {
-    "id": "yt_029", "name": "Big Think", "url": "https://www.youtube.com/@bigthink",
-    "category": "Communication", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Big ideas from leading scientists, philosophers, and thinkers."
+    "id": "yt_029",
+    "name": "Big Think",
+    "url": "https://www.youtube.com/@bigthink",
+    "category": "Communication",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Big ideas from leading scientists, philosophers, and thinkers.",
+    "skills": [
+      "Critical Thinking",
+      "Decision Making",
+      "Creativity",
+      "Leadership Basics",
+      "AI Literacy for Professionals",
+      "Emotional Intelligence",
+      "Growth Mindset"
+    ]
   },
   {
-    "id": "yt_030", "name": "Charisma on Command", "url": "https://www.youtube.com/@CharismaOnCommand",
-    "category": "Communication", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Practical communication, confidence, and charisma tips with real-world examples."
+    "id": "yt_030",
+    "name": "Charisma on Command",
+    "url": "https://www.youtube.com/@CharismaOnCommand",
+    "category": "Communication",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Practical communication, confidence, and charisma tips with real-world examples.",
+    "skills": [
+      "Communication — Verbal",
+      "Public Speaking",
+      "Active Listening",
+      "Presentation Skills",
+      "Non-verbal Communication",
+      "Emotional Intelligence",
+      "Teamwork & Collaboration"
+    ]
   },
   {
-    "id": "yt_031", "name": "Kurzgesagt – In a Nutshell", "url": "https://www.youtube.com/@kurzgesagt",
-    "category": "Science", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Beautifully animated science videos on space, biology, climate, and philosophy."
+    "id": "yt_031",
+    "name": "Kurzgesagt – In a Nutshell",
+    "url": "https://www.youtube.com/@kurzgesagt",
+    "category": "Science",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Beautifully animated science videos on space, biology, climate, and philosophy.",
+    "skills": [
+      "Critical Thinking",
+      "AI Literacy for Professionals",
+      "Environmental Engineering",
+      "Problem Solving"
+    ]
   },
   {
-    "id": "yt_032", "name": "Veritasium", "url": "https://www.youtube.com/@veritasium",
-    "category": "Science", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Physics, maths, and engineering explained with experiments and clear storytelling."
+    "id": "yt_032",
+    "name": "Veritasium",
+    "url": "https://www.youtube.com/@veritasium",
+    "category": "Science",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Physics, maths, and engineering explained with experiments and clear storytelling.",
+    "skills": [
+      "Statistics for Data Science",
+      "Mathematics",
+      "Physics",
+      "Critical Thinking",
+      "Problem Solving",
+      "Learning How to Learn"
+    ]
   },
   {
-    "id": "yt_033", "name": "Mark Rober", "url": "https://www.youtube.com/@MarkRober",
-    "category": "Science", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Engineer and former NASA scientist building amazing things and explaining the science."
+    "id": "yt_033",
+    "name": "Mark Rober",
+    "url": "https://www.youtube.com/@MarkRober",
+    "category": "Science",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Engineer and former NASA scientist building amazing things and explaining the science.",
+    "skills": [
+      "Problem Solving",
+      "Creativity",
+      "Engineering Design",
+      "Product Design & Development"
+    ]
   },
   {
-    "id": "yt_034", "name": "SmarterEveryDay", "url": "https://www.youtube.com/@smartereveryday",
-    "category": "Science", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Engineering and physics through curiosity-driven experiments and high-speed cameras."
+    "id": "yt_034",
+    "name": "SmarterEveryDay",
+    "url": "https://www.youtube.com/@smartereveryday",
+    "category": "Science",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Engineering and physics through curiosity-driven experiments and high-speed cameras.",
+    "skills": [
+      "Problem Solving",
+      "Mechanical Engineering",
+      "Thermodynamic Simulations",
+      "Physics",
+      "Engineering Design"
+    ]
   },
   {
-    "id": "yt_035", "name": "CrashCourse", "url": "https://www.youtube.com/@crashcourse",
-    "category": "Science", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Fast-paced academic courses on science, history, maths, and engineering."
+    "id": "yt_035",
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "category": "Science",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Fast-paced academic courses on science, history, maths, and engineering.",
+    "skills": [
+      "Statistics for Data Science",
+      "Computer Architecture",
+      "Software Engineering",
+      "Critical Thinking",
+      "AI Literacy for Professionals",
+      "Learning How to Learn"
+    ]
   },
   {
-    "id": "yt_036", "name": "Numberphile", "url": "https://www.youtube.com/@numberphile",
-    "category": "Science", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "Mathematicians explaining fascinating number theory and maths concepts."
+    "id": "yt_036",
+    "name": "Numberphile",
+    "url": "https://www.youtube.com/@numberphile",
+    "category": "Science",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Mathematicians explaining fascinating number theory and maths concepts.",
+    "skills": [
+      "Mathematics",
+      "Statistics for Data Science",
+      "Algorithms",
+      "Cryptography"
+    ]
   },
   {
-    "id": "yt_037", "name": "3Blue1Brown", "url": "https://www.youtube.com/@3blue1brown",
-    "category": "Science", "tags": ["Free", "YouTube", "Intermediate", "Global"],
-    "type": "Channel", "description": "Visual maths — linear algebra, calculus, neural networks, and probability explained beautifully."
+    "id": "yt_037",
+    "name": "3Blue1Brown",
+    "url": "https://www.youtube.com/@3blue1brown",
+    "category": "Science",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Visual maths — linear algebra, calculus, neural networks, and probability explained beautifully.",
+    "skills": [
+      "Mathematics",
+      "Statistics for Data Science",
+      "Machine Learning",
+      "Deep Learning",
+      "Linear Algebra",
+      "Neural Networks",
+      "Python for Data Science"
+    ]
   },
   {
-    "id": "yt_038", "name": "Sentdex", "url": "https://www.youtube.com/@sentdex",
-    "category": "AI / Technology", "tags": ["Free", "YouTube", "Intermediate", "Global"],
-    "type": "Channel", "description": "Python for machine learning, finance, and applications — practical coding tutorials."
+    "id": "yt_038",
+    "name": "Sentdex",
+    "url": "https://www.youtube.com/@sentdex",
+    "category": "AI / Technology",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Python for machine learning, finance, and applications — practical coding tutorials.",
+    "skills": [
+      "Python Programming",
+      "Machine Learning",
+      "Deep Learning",
+      "Python for Data Science",
+      "Data Analysis",
+      "Natural Language Processing (NLP)",
+      "Computer Vision"
+    ]
   },
   {
-    "id": "yt_039", "name": "TechWorld with Nana", "url": "https://www.youtube.com/@TechWorldwithNana",
-    "category": "Core CS / B.Tech", "tags": ["Free", "YouTube", "Beginner", "Global"],
-    "type": "Channel", "description": "DevOps tutorials on Docker, Kubernetes, CI/CD, and GitOps — clear and beginner-friendly."
+    "id": "yt_039",
+    "name": "TechWorld with Nana",
+    "url": "https://www.youtube.com/@TechWorldwithNana",
+    "category": "Core CS / B.Tech",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "DevOps tutorials on Docker, Kubernetes, CI/CD, and GitOps — clear and beginner-friendly.",
+    "skills": [
+      "Docker & Kubernetes",
+      "DevOps & CI/CD",
+      "Cloud Computing",
+      "Terraform / Infrastructure as Code",
+      "Monitoring & Observability",
+      "Git & GitHub",
+      "Linux & Command Line",
+      "Kubernetes"
+    ]
   },
   {
-    "id": "yt_040", "name": "Shradha Khapra (Apna College)", "url": "https://www.youtube.com/@ApnaCollegeOfficial",
-    "category": "Core CS / B.Tech", "tags": ["Free", "YouTube", "Beginner", "India"],
-    "type": "Channel", "description": "B.Tech placement-focused tutorials in Java, DSA, and web development in Hindi."
+    "id": "yt_040",
+    "name": "NetworkChuck",
+    "url": "https://www.youtube.com/@NetworkChuck",
+    "category": "Cybersecurity / Networking",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Networking, cybersecurity, Linux, Python hacking and ethical hacking — enthusiastic and beginner-friendly.",
+    "skills": [
+      "Computer Networks",
+      "Cybersecurity Fundamentals",
+      "Linux & Command Line",
+      "Ethical Security Concepts",
+      "Network Security",
+      "Penetration Testing",
+      "Bash / Shell Scripting",
+      "Security Awareness"
+    ]
+  },
+  {
+    "id": "yt_041",
+    "name": "John Hammond",
+    "url": "https://www.youtube.com/@_JohnHammond",
+    "category": "Cybersecurity / Networking",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "CTF walkthroughs, malware analysis, penetration testing and cybersecurity career advice.",
+    "skills": [
+      "Penetration Testing",
+      "Cybersecurity Fundamentals",
+      "Web Security",
+      "Application Security",
+      "Ethical Security Concepts",
+      "Network Security"
+    ]
+  },
+  {
+    "id": "yt_042",
+    "name": "David Bombal",
+    "url": "https://www.youtube.com/@davidbombal",
+    "category": "Cybersecurity / Networking",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Networking (Cisco), ethical hacking, Python for networking and cybersecurity cert prep.",
+    "skills": [
+      "Computer Networks",
+      "Cybersecurity Fundamentals",
+      "Network Security",
+      "Linux & Command Line",
+      "Ethical Security Concepts",
+      "DevSecOps",
+      "Penetration Testing"
+    ]
+  },
+  {
+    "id": "yt_043",
+    "name": "Hussein Nasser",
+    "url": "https://www.youtube.com/@hnasr",
+    "category": "System Design / Backend",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Backend engineering fundamentals — databases, protocols, system design, Postgres and distributed systems.",
+    "skills": [
+      "System Design",
+      "Backend Development",
+      "Database Management Systems (DBMS)",
+      "Computer Networks",
+      "REST APIs",
+      "Node.js",
+      "Distributed Systems",
+      "Microservices Architecture"
+    ]
+  },
+  {
+    "id": "yt_044",
+    "name": "Gaurav Sen",
+    "url": "https://www.youtube.com/@gkcs",
+    "category": "System Design / Backend",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "System design concepts explained — consistent hashing, caching, load balancing and interview prep.",
+    "skills": [
+      "System Design",
+      "System Design (Advanced)",
+      "Data Structures & Algorithms (DSA)",
+      "Distributed Systems",
+      "Microservices Architecture",
+      "Technical Interview Preparation",
+      "Backend Development"
+    ]
+  },
+  {
+    "id": "yt_045",
+    "name": "ByteByteGo",
+    "url": "https://www.youtube.com/@ByteByteGo",
+    "category": "System Design / Backend",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Alex Xu's visual system design videos — scalability, APIs, databases and distributed systems.",
+    "skills": [
+      "System Design",
+      "System Design (Advanced)",
+      "Backend Development",
+      "Database Management Systems (DBMS)",
+      "Distributed Systems",
+      "REST APIs",
+      "Cloud Computing",
+      "Microservices Architecture"
+    ]
+  },
+  {
+    "id": "yt_046",
+    "name": "Fireship",
+    "url": "https://www.youtube.com/@Fireship",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Fast-paced 100-second tech videos and in-depth tutorials on web dev, cloud, and new technologies.",
+    "skills": [
+      "JavaScript (Frontend)",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Docker & Kubernetes",
+      "Cloud Computing",
+      "Next.js",
+      "Flutter",
+      "Firebase",
+      "Full Stack Development",
+      "Web Security",
+      "DevOps & CI/CD"
+    ]
+  },
+  {
+    "id": "yt_047",
+    "name": "Corey Schafer",
+    "url": "https://www.youtube.com/@coreyms",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Python tutorials — Django, Flask, OOP, decorators and virtual environments explained clearly.",
+    "skills": [
+      "Python Programming",
+      "Django",
+      "Flask",
+      "Object-Oriented Programming (OOP)",
+      "SQL",
+      "Git & GitHub",
+      "Data Analysis",
+      "Python for Data Science",
+      "Debugging"
+    ]
+  },
+  {
+    "id": "yt_048",
+    "name": "Andrej Karpathy",
+    "url": "https://www.youtube.com/@AndrejKarpathy",
+    "category": "AI / Technology",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Advanced",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Deep learning from scratch — neural networks, backpropagation, GPT and LLM internals by ex-Tesla AI director.",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Neural Networks",
+      "Generative AI",
+      "AI Research Methods",
+      "Python Programming",
+      "Natural Language Processing (NLP)"
+    ]
+  },
+  {
+    "id": "yt_049",
+    "name": "Yannic Kilcher",
+    "url": "https://www.youtube.com/@YannicKilcher",
+    "category": "AI / Technology",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Advanced",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Deep-dives into ML research papers — transformers, diffusion models, RL and AI safety.",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Natural Language Processing (NLP)",
+      "Generative AI",
+      "AI Research Methods",
+      "Explainable AI (XAI)"
+    ]
+  },
+  {
+    "id": "yt_050",
+    "name": "Abhishek Thakur",
+    "url": "https://www.youtube.com/@abhi1thakur",
+    "category": "AI / Technology",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Kaggle Grandmaster's practical ML — model training, Kaggle competitions and NLP/CV projects.",
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python for Data Science",
+      "Kaggle & Competitive ML",
+      "Natural Language Processing (NLP)",
+      "Computer Vision",
+      "Feature Engineering"
+    ]
+  },
+  {
+    "id": "yt_051",
+    "name": "NPTEL Official",
+    "url": "https://www.youtube.com/@iit",
+    "category": "Core CS / B.Tech",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India",
+      "Government"
+    ],
+    "type": "Channel",
+    "description": "Official NPTEL IIT lecture channel — engineering, science, maths and management courses.",
+    "skills": [
+      "Computer Networks",
+      "Operating Systems",
+      "Database Management Systems (DBMS)",
+      "Digital Electronics",
+      "Communication Systems",
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Control Systems Engineering",
+      "GATE / GRE Preparation",
+      "Software Engineering",
+      "Electrical Machines",
+      "Environmental Engineering",
+      "Chemical Engineering",
+      "Structural Engineering",
+      "Materials Science"
+    ]
+  },
+  {
+    "id": "yt_052",
+    "name": "MIT OpenCourseWare",
+    "url": "https://www.youtube.com/@mitocw",
+    "category": "Core CS / B.Tech",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Intermediate",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Full MIT lecture courses — algorithms, circuits, physics, maths, and engineering subjects.",
+    "skills": [
+      "Algorithms",
+      "Computer Architecture",
+      "Software Engineering",
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics for Data Science",
+      "Mathematics",
+      "Linear Algebra",
+      "Data Structures & Algorithms (DSA)",
+      "Computer Networks",
+      "Operating Systems",
+      "Chemistry",
+      "Physics"
+    ]
+  },
+  {
+    "id": "yt_053",
+    "name": "Lesics",
+    "url": "https://www.youtube.com/@Lesics",
+    "category": "Core Engineering",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Visual explanations of mechanical and electrical engineering concepts — motors, turbines, IC engines.",
+    "skills": [
+      "Mechanical Engineering",
+      "Electrical Machines",
+      "Thermodynamic Simulations",
+      "Robotics & Automation",
+      "Renewable Energy Systems",
+      "IC Engines",
+      "Control Systems Engineering",
+      "Power Electronics"
+    ]
+  },
+  {
+    "id": "yt_054",
+    "name": "The Efficient Engineer",
+    "url": "https://www.youtube.com/@TheEfficientEngineer",
+    "category": "Core Engineering",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Clear animated videos on structural engineering, mechanics, thermodynamics and materials science.",
+    "skills": [
+      "Mechanical Engineering",
+      "Structural Engineering",
+      "Thermodynamics",
+      "Materials Science",
+      "Fluid Mechanics",
+      "Finite Element Analysis (Ansys)",
+      "Product Design & Development",
+      "Civil Engineering",
+      "Engineering Design"
+    ]
+  },
+  {
+    "id": "yt_055",
+    "name": "All About Electronics",
+    "url": "https://www.youtube.com/@AllAboutElectronics",
+    "category": "Core Engineering",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Structured videos on electronics fundamentals — op-amps, filters, MOSFETs, PCB design and communication circuits.",
+    "skills": [
+      "Electronic Circuits",
+      "Communication Systems",
+      "Embedded Systems & Microcontrollers",
+      "Digital Electronics",
+      "PCB Design",
+      "VLSI Design",
+      "Signals & Systems",
+      "Analog Electronics",
+      "IoT & Sensor Networks"
+    ]
+  },
+  {
+    "id": "yt_056",
+    "name": "Graham Stephan",
+    "url": "https://www.youtube.com/@GrahamStephan",
+    "category": "Finance / Life Skills",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Personal finance, investing, real estate and wealth building explained for young adults.",
+    "skills": [
+      "Financial Literacy",
+      "Entrepreneurship & Startups",
+      "Entrepreneurship Mindset",
+      "Basic Sales & Persuasion"
+    ]
+  },
+  {
+    "id": "yt_057",
+    "name": "CA Rachana Ranade",
+    "url": "https://www.youtube.com/@CArachanaranade",
+    "category": "Finance / Life Skills",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Indian personal finance — stock market basics, mutual funds, SIP, tax and financial planning.",
+    "skills": [
+      "Financial Literacy",
+      "Entrepreneurship & Startups"
+    ]
+  },
+  {
+    "id": "yt_058",
+    "name": "Internshala",
+    "url": "https://www.youtube.com/@internshala",
+    "category": "Career / Internship",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Indian internship and career channel — resume tips, interview prep, career advice for students.",
+    "skills": [
+      "Internship Search Strategies",
+      "Resume & CV Writing",
+      "LinkedIn Profile Optimization",
+      "Technical Interview Preparation",
+      "HR Interview & Behavioural Questions",
+      "Career Planning",
+      "Personal Branding Online"
+    ]
+  },
+  {
+    "id": "yt_059",
+    "name": "Josh Talks",
+    "url": "https://www.youtube.com/@JoshTalks",
+    "category": "Career / Internship",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "India"
+    ],
+    "type": "Channel",
+    "description": "Motivational talks, career stories and entrepreneurship journeys — India-focused youth content.",
+    "skills": [
+      "Entrepreneurship & Startups",
+      "Career Planning",
+      "Entrepreneurship Mindset",
+      "Leadership Basics",
+      "Resilience & Mental Health",
+      "Growth Mindset"
+    ]
+  },
+  {
+    "id": "yt_060",
+    "name": "Simon Sinek",
+    "url": "https://www.youtube.com/@SimonSinek",
+    "category": "Communication",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Leadership, communication and why great leaders inspire action — Start With Why and beyond.",
+    "skills": [
+      "Leadership Basics",
+      "Communication — Verbal",
+      "Teamwork & Collaboration",
+      "Emotional Intelligence",
+      "Public Speaking",
+      "Professional Networking",
+      "Entrepreneurship Mindset"
+    ]
   }
 ]
