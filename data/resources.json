@@ -9865,5 +9865,957 @@
       "CHEM"
     ],
     "description": "LearnChemE Aspen Plus YouTube tutorials — flash separators, distillation, reactors and process simulation basics."
+  },
+  {
+    "id": "res_365",
+    "title": "GATE Mathematics PYQs — IIT Kanpur Official",
+    "url": "https://gate.iitk.ac.in/gate_admin/index.php",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Mathematics-I",
+      "Mathematics-II",
+      "Engineering Mathematics",
+      "Calculus",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "Official IIT Kanpur GATE portal with previous year question papers and solutions for all GATE subjects including Engineering Mathematics."
+  },
+  {
+    "id": "res_366",
+    "title": "GATE Engineering Mathematics PYQs — GATECSE",
+    "url": "https://gateoverflow.in/tag/engineering-mathematics",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank",
+      "Solutions"
+    ],
+    "subjects": [
+      "Mathematics-I",
+      "Mathematics-II",
+      "Engineering Mathematics",
+      "Calculus",
+      "Linear Algebra",
+      "Differential Equations",
+      "Probability and Statistics"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "GATE Overflow — community-verified GATE PYQs with detailed solutions, particularly strong for Engineering Mathematics and CS subjects."
+  },
+  {
+    "id": "res_367",
+    "title": "Engineering Mathematics Exam Papers — MIT OCW",
+    "url": "https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "Exam Papers",
+      "MIT",
+      "Solutions"
+    ],
+    "subjects": [
+      "Mathematics-I",
+      "Engineering Mathematics",
+      "Calculus"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "MIT OCW Single Variable Calculus exam papers with solutions — free, official, high-quality practice questions covering limits, derivatives, and integrals."
+  },
+  {
+    "id": "res_368",
+    "title": "Linear Algebra Exam Papers — MIT OCW (18.06)",
+    "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "Exam Papers",
+      "MIT",
+      "Solutions"
+    ],
+    "subjects": [
+      "Mathematics-I",
+      "Mathematics-II",
+      "Engineering Mathematics",
+      "Linear Algebra"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "MIT OCW Linear Algebra (18.06) exam papers and solutions by Prof. Gilbert Strang — eigenvalues, matrices, vector spaces."
+  },
+  {
+    "id": "res_369",
+    "title": "NPTEL Engineering Physics Question Papers",
+    "url": "https://nptel.ac.in/courses/115/106/115106118/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "NPTEL",
+      "Question Papers",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Engineering Physics",
+      "Physics"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "NPTEL Engineering Physics course including assignment question banks and downloadable exam-style questions for first-year students."
+  },
+  {
+    "id": "res_370",
+    "title": "Physics Exams and Solutions — MIT OCW (8.01)",
+    "url": "https://ocw.mit.edu/courses/8-01-physics-i-classical-mechanics-fall-1999/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers",
+      "Solutions"
+    ],
+    "subjects": [
+      "Engineering Physics",
+      "Physics",
+      "Mechanics"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "MIT OCW Physics I (8.01) classical mechanics exam papers with solutions — Newtonian mechanics, Newton's laws, energy, momentum."
+  },
+  {
+    "id": "res_371",
+    "title": "GATE Physics PYQs — GATE Overflow",
+    "url": "https://gateoverflow.in/tag/physics",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Engineering Physics",
+      "Physics"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT"
+    ],
+    "description": "GATE Overflow previous year GATE questions for Physics — thermodynamics, optics, quantum mechanics, electromagnetism."
+  },
+  {
+    "id": "res_372",
+    "title": "NPTEL Engineering Chemistry Question Papers",
+    "url": "https://nptel.ac.in/courses/104/106/104106117/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "NPTEL",
+      "Question Papers",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Engineering Chemistry",
+      "Chemistry"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM"
+    ],
+    "description": "NPTEL Engineering Chemistry course with assignment question banks and NPTEL-style exam questions for first-year engineering students."
+  },
+  {
+    "id": "res_373",
+    "title": "Chemistry Exam Papers — MIT OCW (5.111)",
+    "url": "https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers",
+      "Solutions"
+    ],
+    "subjects": [
+      "Engineering Chemistry",
+      "Chemistry"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM"
+    ],
+    "description": "MIT OCW Principles of Chemical Science exam papers with solutions — periodic table, bonding, thermochemistry, acid-base, electrochemistry."
+  },
+  {
+    "id": "res_374",
+    "title": "GATE Electrical Engineering PYQs — IIT Kanpur",
+    "url": "https://gateoverflow.in/tag/electrical-engineering",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Basic Electrical Engineering",
+      "BEEE",
+      "Electrical Circuits",
+      "Electrical Machines",
+      "Power Systems",
+      "Control Systems"
+    ],
+    "skills": [],
+    "branches": [
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "CSE",
+      "IT"
+    ],
+    "description": "GATE EE (Electrical Engineering) official question papers — circuits, machines, power electronics, control systems."
+  },
+  {
+    "id": "res_375",
+    "title": "Circuits and Electronics Exams — MIT OCW (6.002)",
+    "url": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers"
+    ],
+    "subjects": [
+      "Basic Electrical Engineering",
+      "BEEE",
+      "Basic Electronics",
+      "Electrical Circuits"
+    ],
+    "skills": [],
+    "branches": [
+      "ECE",
+      "EEE",
+      "CSE",
+      "IT"
+    ],
+    "description": "MIT OCW Circuits and Electronics (6.002) exams with solutions — resistors, op-amps, MOSFET, digital abstraction, signal processing."
+  },
+  {
+    "id": "res_376",
+    "title": "GATE Electronics & Communication PYQs — GATE Overflow",
+    "url": "https://gateoverflow.in/tag/ece",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Basic Electronics",
+      "Digital Electronics",
+      "Signals and Systems",
+      "Electronic Devices",
+      "Analog Circuits"
+    ],
+    "skills": [],
+    "branches": [
+      "ECE",
+      "EEE",
+      "CSE",
+      "IT"
+    ],
+    "description": "GATE ECE previous year questions for all subtopics — digital circuits, network theory, analog electronics, communication, electromagnetics."
+  },
+  {
+    "id": "res_377",
+    "title": "GATE Computer Science PYQs — GATE Overflow",
+    "url": "https://gateoverflow.in/tag/computer-science",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Data Structures",
+      "Algorithms",
+      "Operating Systems",
+      "Computer Networks",
+      "Database Management",
+      "Computer Organization",
+      "Theory of Computation",
+      "Compiler Design",
+      "C Programming"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "description": "GATE Overflow — largest collection of GATE CS PYQs with verified solutions. Covers all GATE CS subjects from 2000–present with difficulty tags."
+  },
+  {
+    "id": "res_378",
+    "title": "GATE Mechanical Engineering PYQs — IIT Kanpur",
+    "url": "https://gateoverflow.in/tag/mechanical-engineering",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Engineering Mechanics",
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Strength of Materials",
+      "Manufacturing",
+      "Theory of Machines"
+    ],
+    "skills": [],
+    "branches": [
+      "MECH"
+    ],
+    "description": "GATE ME official question papers — engineering mechanics, thermodynamics, fluid mechanics, manufacturing, vibrations."
+  },
+  {
+    "id": "res_379",
+    "title": "Engineering Mechanics Exam Papers — MIT OCW (2.01)",
+    "url": "https://ocw.mit.edu/courses/2-01-elements-of-structures-spring-2021/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers"
+    ],
+    "subjects": [
+      "Engineering Mechanics",
+      "Mechanics",
+      "Basic Mechanical Engineering",
+      "Statics",
+      "Strength of Materials"
+    ],
+    "skills": [],
+    "branches": [
+      "MECH",
+      "CIVIL",
+      "ECE",
+      "EEE",
+      "CSE"
+    ],
+    "description": "MIT OCW Elements of Structures exam papers — statics, equilibrium, trusses, stress and strain for engineering students."
+  },
+  {
+    "id": "res_380",
+    "title": "GATE Civil Engineering PYQs — IIT Kanpur",
+    "url": "https://gateoverflow.in/tag/civil-engineering",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE"
+    ],
+    "subjects": [
+      "Structural Analysis",
+      "Fluid Mechanics",
+      "Geotechnical Engineering",
+      "Transportation Engineering",
+      "Environmental Engineering",
+      "Surveying"
+    ],
+    "skills": [],
+    "branches": [
+      "CIVIL"
+    ],
+    "description": "GATE CE official question papers — structural analysis, concrete, steel, soil mechanics, fluid mechanics, transportation."
+  },
+  {
+    "id": "res_381",
+    "title": "Introduction to CS & Programming Exams — MIT OCW (6.0001)",
+    "url": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers",
+      "Solutions"
+    ],
+    "subjects": [
+      "C Programming",
+      "Python Programming",
+      "Introduction to Programming",
+      "Problem Solving with Programming"
+    ],
+    "skills": [
+      "C Programming",
+      "Python Programming",
+      "Programming"
+    ],
+    "branches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "EEE",
+      "MECH"
+    ],
+    "description": "MIT OCW Introduction to CS and Programming (6.0001) exam papers with solutions — variables, loops, functions, recursion, data structures."
+  },
+  {
+    "id": "res_382",
+    "title": "NPTEL Programming in C Question Papers",
+    "url": "https://nptel.ac.in/courses/106/105/106105171/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "NPTEL",
+      "Question Papers",
+      "Question Bank"
+    ],
+    "subjects": [
+      "C Programming",
+      "Introduction to Programming",
+      "Problem Solving with Programming"
+    ],
+    "skills": [
+      "C Programming",
+      "Programming"
+    ],
+    "branches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "NPTEL Programming in C course assignment question bank — pointers, arrays, functions, structures, file handling."
+  },
+  {
+    "id": "res_383",
+    "title": "Electrical Engineering & Computer Science Exams — MIT OCW",
+    "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c10/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers"
+    ],
+    "subjects": [
+      "Computer Organization",
+      "Digital Electronics",
+      "Computer Architecture",
+      "Microprocessors"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "EEE"
+    ],
+    "description": "MIT OCW Computation Structures (6.004) practice problems and exam questions — combinational logic, sequential circuits, assembly language, pipelines."
+  },
+  {
+    "id": "res_384",
+    "title": "Engineering Drawing Practice Questions — NPTEL",
+    "url": "https://nptel.ac.in/courses/112/107/112107211/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "NPTEL",
+      "Question Papers"
+    ],
+    "subjects": [
+      "Engineering Drawing",
+      "Engineering Graphics",
+      "Technical Drawing"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "NPTEL Engineering Drawing and Graphics course with assignment-style questions covering orthographic projections, isometric views, and sectional views."
+  },
+  {
+    "id": "res_385",
+    "title": "Environmental Science (EVS) NPTEL Question Papers",
+    "url": "https://swayam.gov.in/nd2_noc20_hs11/preview",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "NPTEL",
+      "Question Papers"
+    ],
+    "subjects": [
+      "Environmental Science (EVS)",
+      "Environmental Studies",
+      "EVS"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "NPTEL Environmental Science course question bank — ecosystems, biodiversity, pollution, environmental laws, sustainable development."
+  },
+  {
+    "id": "res_386",
+    "title": "Data Structures & Algorithms GATE PYQs — GATE Overflow",
+    "url": "https://gateoverflow.in/tag/data-structures",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Data Structures",
+      "Algorithms",
+      "Analysis of Algorithms"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "description": "GATE Overflow DS&A section — arrays, linked lists, trees, graphs, sorting, dynamic programming, greedy algorithms from GATE CS papers."
+  },
+  {
+    "id": "res_387",
+    "title": "Operating Systems GATE PYQs — GATE Overflow",
+    "url": "https://gateoverflow.in/tag/operating-system",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Operating Systems"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "description": "GATE Overflow OS section — process management, CPU scheduling, memory management, file systems, deadlock, synchronization PYQs."
+  },
+  {
+    "id": "res_388",
+    "title": "Database Management Systems GATE PYQs — GATE Overflow",
+    "url": "https://gateoverflow.in/tag/dbms",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Database Management",
+      "Database Management Systems",
+      "DBMS",
+      "SQL"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "description": "GATE Overflow DBMS section — relational algebra, SQL, normalization, ER model, transactions, indexing PYQs."
+  },
+  {
+    "id": "res_389",
+    "title": "Computer Networks GATE PYQs — GATE Overflow",
+    "url": "https://gateoverflow.in/tag/computer-networks",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Computer Networks",
+      "Networking",
+      "Network Security"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "IT",
+      "ECE"
+    ],
+    "description": "GATE Overflow Computer Networks PYQs — OSI model, TCP/IP, routing algorithms, error detection, network security from GATE CS papers."
+  },
+  {
+    "id": "res_390",
+    "title": "Thermodynamics Exam Papers — MIT OCW (2.006)",
+    "url": "https://ocw.mit.edu/courses/2-006-thermal-fluids-engineering-ii-spring-2008/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers"
+    ],
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Heat Transfer"
+    ],
+    "skills": [],
+    "branches": [
+      "MECH",
+      "CIVIL",
+      "CHEM"
+    ],
+    "description": "MIT OCW Thermal Fluids Engineering exam papers with solutions — thermodynamic cycles, conduction, convection, heat exchangers."
+  },
+  {
+    "id": "res_391",
+    "title": "GATE Chemical Engineering PYQs — IIT Kanpur",
+    "url": "https://gateoverflow.in/tag/chemical-engineering",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Chemical Reaction Engineering",
+      "Mass Transfer",
+      "Heat Transfer",
+      "Fluid Mechanics",
+      "Process Control & Simulation",
+      "Thermodynamics"
+    ],
+    "skills": [],
+    "branches": [
+      "CHEM"
+    ],
+    "description": "GATE CH (Chemical Engineering) official question papers — mass transfer, heat transfer, reaction engineering, thermodynamics, fluid mechanics."
+  },
+  {
+    "id": "res_392",
+    "title": "GATE Biotechnology PYQs — IIT Kanpur",
+    "url": "https://gateoverflow.in/tag/biotechnology",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Molecular Biology",
+      "Microbiology",
+      "Biochemistry",
+      "Genetics",
+      "Bioprocess Engineering"
+    ],
+    "skills": [],
+    "branches": [
+      "BIO"
+    ],
+    "description": "GATE BT (Biotechnology) official question papers — molecular biology, genetics, microbiology, bioprocess engineering, biochemistry."
+  },
+  {
+    "id": "res_393",
+    "title": "Algorithms Exam Papers — MIT OCW (6.006)",
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers",
+      "Solutions"
+    ],
+    "subjects": [
+      "Algorithms",
+      "Data Structures",
+      "Analysis of Algorithms"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "description": "MIT OCW Introduction to Algorithms (6.006) exam papers with solutions — dynamic programming, graph algorithms, sorting, hashing."
+  },
+  {
+    "id": "res_394",
+    "title": "Communication Skills — English for Engineers NPTEL Questions",
+    "url": "https://nptel.ac.in/courses/109/104/109104099/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "NPTEL",
+      "Question Papers"
+    ],
+    "subjects": [
+      "English Communication",
+      "Professional Communication",
+      "Communication Skills",
+      "Technical Writing"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "NPTEL English for Engineers and Scientists course question bank — grammar, writing, reading comprehension, technical communication."
+  },
+  {
+    "id": "res_395",
+    "title": "Differential Equations Exam Papers — MIT OCW (18.03)",
+    "url": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers",
+      "Solutions"
+    ],
+    "subjects": [
+      "Mathematics-II",
+      "Engineering Mathematics",
+      "Differential Equations"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "MIT OCW Differential Equations (18.03) exam papers with solutions — first and second order ODEs, Laplace transforms, systems of equations."
+  },
+  {
+    "id": "res_396",
+    "title": "Probability & Statistics Exam Papers — MIT OCW (18.650)",
+    "url": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers"
+    ],
+    "subjects": [
+      "Mathematics-II",
+      "Engineering Mathematics",
+      "Probability and Statistics"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "MIT OCW Statistics for Applications exam papers with solutions — probability distributions, hypothesis testing, regression, estimation."
+  },
+  {
+    "id": "res_397",
+    "title": "Digital Logic Design Exam Papers — MIT OCW (6.004)",
+    "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers"
+    ],
+    "subjects": [
+      "Digital Electronics",
+      "Digital Logic Design",
+      "Computer Organization",
+      "Microprocessors"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "EEE"
+    ],
+    "description": "MIT OCW Computation Structures (6.004) exam papers — boolean algebra, combinational and sequential circuits, FSMs, processor design."
+  },
+  {
+    "id": "res_398",
+    "title": "Multivariable Calculus Exam Papers — MIT OCW (18.02)",
+    "url": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers"
+    ],
+    "subjects": [
+      "Mathematics-II",
+      "Engineering Mathematics",
+      "Calculus",
+      "Vector Calculus"
+    ],
+    "skills": [],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "MECH",
+      "CIVIL",
+      "IT",
+      "CHEM",
+      "BIO"
+    ],
+    "description": "MIT OCW Multivariable Calculus (18.02) exam papers with solutions — partial derivatives, multiple integrals, vector fields, Green's and Stokes' theorems."
+  },
+  {
+    "id": "res_399",
+    "title": "Signals and Systems Exam Papers — MIT OCW (6.003)",
+    "url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/pages/exams/",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "MIT",
+      "Exam Papers"
+    ],
+    "subjects": [
+      "Signals and Systems",
+      "Analog Circuits",
+      "Communication Engineering"
+    ],
+    "skills": [],
+    "branches": [
+      "ECE",
+      "EEE"
+    ],
+    "description": "MIT OCW Signals and Systems (6.003) exam papers — Fourier transforms, Laplace transforms, Z-transforms, sampling, LTI systems."
+  },
+  {
+    "id": "res_400",
+    "title": "GATE Information Technology PYQs — GATE Overflow",
+    "url": "https://gateoverflow.in/tag/it",
+    "type": "PYQ",
+    "tags": [
+      "PYQ",
+      "GATE",
+      "Question Bank"
+    ],
+    "subjects": [
+      "Data Structures",
+      "Algorithms",
+      "Operating Systems",
+      "Computer Networks",
+      "Database Management",
+      "C Programming"
+    ],
+    "skills": [],
+    "branches": [
+      "IT"
+    ],
+    "description": "GATE IT/CSE previous year questions applicable to Information Technology branch — same syllabus coverage as GATE CS, with solutions."
   }
 ]

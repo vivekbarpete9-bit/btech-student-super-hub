@@ -25,10 +25,19 @@ VALID_TAGS = [
     "India",
     "Global",
     "Official",
+    # PYQ / exam-paper tags
+    "PYQ",
+    "GATE",
+    "NPTEL",
+    "MIT",
+    "Exam Papers",
+    "Question Papers",
+    "Question Bank",
+    "Solutions",
 ]
 
 # Resource types used across the app
-VALID_TYPES = ["Video", "Course", "Article", "Practice", "Project", "Platform", "Channel", "Tool", "Notes", "Lab", "Reference", "Website"]
+VALID_TYPES = ["Video", "Course", "Article", "Practice", "Project", "Platform", "Channel", "Tool", "Notes", "Lab", "Reference", "Website", "PYQ"]
 
 # Skill status options for the tracker
 SKILL_STATUSES = ["Not Started", "Learning", "Practicing", "Completed"]

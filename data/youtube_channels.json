@@ -15,6 +15,7 @@
     "skills": [
       "Python Programming",
       "JavaScript (Frontend)",
+      "JavaScript",
       "HTML & CSS",
       "React",
       "Node.js",
@@ -22,9 +23,15 @@
       "C Programming",
       "SQL",
       "Data Analysis",
+      "Data Visualization",
       "Machine Learning",
       "Docker & Kubernetes",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "DevOps",
       "Backend Development",
+      "Frontend Development",
       "Full Stack Development",
       "Git & GitHub",
       "Computer Networks",
@@ -34,7 +41,16 @@
       "Django",
       "Flask",
       "FastAPI",
-      "Express.js"
+      "Express.js",
+      "Software Testing",
+      "Data Engineering",
+      "React Native",
+      "Android Development",
+      "AWS",
+      "Machine Learning Basics",
+      "Data Science & Analytics",
+      "Mobile App Development",
+      "Cloud Computing (AWS/GCP/Azure)"
     ]
   },
   {
@@ -55,12 +71,14 @@
       "C Programming",
       "C++ Programming",
       "JavaScript (Frontend)",
+      "JavaScript",
       "HTML & CSS",
       "Java Programming",
       "SQL",
       "Web Security",
       "Django",
       "Backend Development",
+      "Frontend Development",
       "Full Stack Development",
       "Data Structures & Algorithms (DSA)"
     ]
@@ -84,6 +102,8 @@
       "Data Structures & Algorithms (DSA)",
       "Python Programming",
       "SQL",
+      "JavaScript",
+      "Frontend Development",
       "Object-Oriented Programming (OOP)",
       "GATE / GRE Preparation"
     ]
@@ -104,16 +124,20 @@
     "skills": [
       "HTML & CSS",
       "JavaScript (Frontend)",
+      "JavaScript",
       "React",
       "Node.js",
       "Express.js",
       "Full Stack Development",
+      "Frontend Development",
       "Backend Development",
       "REST APIs",
       "TypeScript",
       "Next.js",
       "Flutter",
-      "Mobile Development"
+      "React Native",
+      "Mobile Development",
+      "Android Development"
     ]
   },
   {
@@ -131,6 +155,7 @@
     "description": "Short, well-structured web dev tutorial series — React, Vue, Django, Firebase.",
     "skills": [
       "JavaScript (Frontend)",
+      "JavaScript",
       "React",
       "Vue",
       "Django",
@@ -142,7 +167,9 @@
       "Next.js",
       "GraphQL",
       "Full Stack Development",
-      "Mobile Development"
+      "Frontend Development",
+      "Mobile Development",
+      "React Native"
     ]
   },
   {
@@ -161,13 +188,18 @@
     "skills": [
       "Python Programming",
       "JavaScript (Frontend)",
+      "JavaScript",
       "React",
       "SQL",
       "C++ Programming",
       "Java Programming",
+      "Kotlin",
       "Node.js",
       "HTML & CSS",
       "Object-Oriented Programming (OOP)",
+      "Frontend Development",
+      "Android Development",
+      "React Native",
       "Data Structures & Algorithms (DSA)"
     ]
   },
@@ -186,6 +218,7 @@
     "description": "Creative coding with p5.js and Processing — algorithms, simulations, and art.",
     "skills": [
       "JavaScript (Frontend)",
+      "JavaScript",
       "Python Programming",
       "Algorithms",
       "Machine Learning",
@@ -329,6 +362,7 @@
       "Data Structures & Algorithms (DSA)",
       "Java Programming",
       "Open Source Contribution",
+      "Open Source Development",
       "Git & GitHub",
       "Technical Interview Preparation",
       "Problem Solving"
@@ -403,7 +437,10 @@
       "Deep Learning",
       "AI Agents",
       "Responsible AI",
-      "Prompt Engineering"
+      "Prompt Engineering",
+      "MLOps",
+      "Data Engineering",
+      "Data Visualization"
     ]
   },
   {
@@ -425,7 +462,9 @@
       "Content Creation",
       "Prompt Engineering",
       "AI Agents",
-      "Digital Marketing"
+      "Digital Marketing",
+      "Video Editing",
+      "Graphic Design"
     ]
   },
   {
@@ -451,7 +490,9 @@
       "Technical Blogging & Portfolio Building",
       "Discipline & Consistency",
       "Growth Mindset",
-      "Career Planning"
+      "Career Planning",
+      "Digital Literacy",
+      "Professional Email Writing"
     ]
   },
   {
@@ -473,7 +514,8 @@
       "Learning How to Learn",
       "Habit Building",
       "Discipline & Consistency",
-      "Study Skills"
+      "Study Skills",
+      "Digital Literacy"
     ]
   },
   {
@@ -500,7 +542,11 @@
       "Freelancing Basics",
       "Decision Making",
       "Leadership Basics",
-      "Entrepreneurship Mindset"
+      "Entrepreneurship Mindset",
+      "Higher Studies Planning (MS/MBA)",
+      "Group Discussion Skills",
+      "Professional Email Writing",
+      "Negotiation"
     ]
   },
   {
@@ -524,7 +570,9 @@
       "Emotional Intelligence",
       "Resilience & Mental Health",
       "Problem Solving",
-      "Productivity Tools (Notion, Trello)"
+      "Productivity Tools (Notion, Trello)",
+      "Conflict Resolution",
+      "Stress Management"
     ]
   },
   {
@@ -546,7 +594,8 @@
       "Time Management",
       "Stress Management",
       "Growth Mindset",
-      "Resilience & Mental Health"
+      "Resilience & Mental Health",
+      "Conflict Resolution"
     ]
   },
   {
@@ -569,7 +618,9 @@
       "Negotiation",
       "Personal Branding Online",
       "Leadership Basics",
-      "Content Creation"
+      "Content Creation",
+      "SEO",
+      "Digital Marketing"
     ]
   },
   {
@@ -613,7 +664,8 @@
       "Higher Studies Planning (MS/MBA)",
       "Decision Making",
       "Product Management",
-      "Entrepreneurship Mindset"
+      "Entrepreneurship Mindset",
+      "Agile / Scrum Basics"
     ]
   },
   {
@@ -635,7 +687,9 @@
       "Decision Making",
       "Emotional Intelligence",
       "Professional Networking",
-      "Entrepreneurship & Startups"
+      "Entrepreneurship & Startups",
+      "Agile / Scrum Basics",
+      "Communication — Written"
     ]
   },
   {
@@ -681,6 +735,7 @@
       "Problem Solving",
       "Creativity",
       "Communication — Verbal",
+      "Communication — Written",
       "AI Literacy for Professionals"
     ]
   },
@@ -722,12 +777,15 @@
     "description": "Practical communication, confidence, and charisma tips with real-world examples.",
     "skills": [
       "Communication — Verbal",
+      "Communication — Written",
       "Public Speaking",
       "Active Listening",
       "Presentation Skills",
       "Non-verbal Communication",
       "Emotional Intelligence",
-      "Teamwork & Collaboration"
+      "Teamwork & Collaboration",
+      "Conflict Resolution",
+      "Group Discussion Skills"
     ]
   },
   {
@@ -897,8 +955,12 @@
       "Deep Learning",
       "Python for Data Science",
       "Data Analysis",
+      "Data Visualization",
       "Natural Language Processing (NLP)",
-      "Computer Vision"
+      "Computer Vision",
+      "Time Series Analysis",
+      "Machine Learning Basics",
+      "Data Science & Analytics"
     ]
   },
   {
@@ -916,13 +978,23 @@
     "description": "DevOps tutorials on Docker, Kubernetes, CI/CD, and GitOps — clear and beginner-friendly.",
     "skills": [
       "Docker & Kubernetes",
+      "Docker",
+      "Kubernetes",
       "DevOps & CI/CD",
+      "DevOps",
+      "CI/CD",
       "Cloud Computing",
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud Platform",
       "Terraform / Infrastructure as Code",
       "Monitoring & Observability",
       "Git & GitHub",
       "Linux & Command Line",
-      "Kubernetes"
+      "DevSecOps",
+      "Cloud Infrastructure",
+      "Cloud Computing (AWS/GCP/Azure)",
+      "Mobile App Development"
     ]
   },
   {
@@ -946,7 +1018,8 @@
       "Network Security",
       "Penetration Testing",
       "Bash / Shell Scripting",
-      "Security Awareness"
+      "Security Awareness",
+      "Network Administration"
     ]
   },
   {
@@ -991,7 +1064,10 @@
       "Linux & Command Line",
       "Ethical Security Concepts",
       "DevSecOps",
-      "Penetration Testing"
+      "Penetration Testing",
+      "Network Administration",
+      "Security Awareness",
+      "Information Security Management"
     ]
   },
   {
@@ -1015,7 +1091,10 @@
       "REST APIs",
       "Node.js",
       "Distributed Systems",
-      "Microservices Architecture"
+      "Microservices Architecture",
+      "API Development & Integration",
+      "Web Application Development",
+      "Database Administration"
     ]
   },
   {
@@ -1062,7 +1141,9 @@
       "Distributed Systems",
       "REST APIs",
       "Cloud Computing",
-      "Microservices Architecture"
+      "Cloud Infrastructure",
+      "Microservices Architecture",
+      "API Development & Integration"
     ]
   },
   {
@@ -1080,17 +1161,33 @@
     "description": "Fast-paced 100-second tech videos and in-depth tutorials on web dev, cloud, and new technologies.",
     "skills": [
       "JavaScript (Frontend)",
+      "JavaScript",
       "TypeScript",
       "React",
       "Node.js",
       "Docker & Kubernetes",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "DevOps",
       "Cloud Computing",
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud Platform",
       "Next.js",
       "Flutter",
+      "React Native",
       "Firebase",
       "Full Stack Development",
+      "Frontend Development",
+      "Backend Development",
       "Web Security",
-      "DevOps & CI/CD"
+      "DevOps & CI/CD",
+      "Kotlin",
+      "Go (Golang)",
+      "Rust",
+      "Web Application Development",
+      "Agile & Scrum"
     ]
   },
   {
@@ -1114,8 +1211,10 @@
       "SQL",
       "Git & GitHub",
       "Data Analysis",
+      "Data Visualization",
       "Python for Data Science",
-      "Debugging"
+      "Debugging",
+      "Software Testing"
     ]
   },
   {
@@ -1138,7 +1237,13 @@
       "Generative AI",
       "AI Research Methods",
       "Python Programming",
-      "Natural Language Processing (NLP)"
+      "Natural Language Processing (NLP)",
+      "Deep Learning & Neural Networks",
+      "Advanced Machine Learning",
+      "Deep Learning Architectures",
+      "MLOps",
+      "MLOps & Model Deployment",
+      "Data Engineering"
     ]
   },
   {
@@ -1161,7 +1266,15 @@
       "Natural Language Processing (NLP)",
       "Generative AI",
       "AI Research Methods",
-      "Explainable AI (XAI)"
+      "Explainable AI (XAI)",
+      "Deep Learning Architectures",
+      "Advanced Machine Learning",
+      "Natural Language Processing",
+      "Generative AI & LLMs",
+      "MLOps & Model Deployment",
+      "Responsible AI & AI Ethics",
+      "Time Series Analysis",
+      "Explainable AI"
     ]
   },
   {
@@ -1184,7 +1297,12 @@
       "Kaggle & Competitive ML",
       "Natural Language Processing (NLP)",
       "Computer Vision",
-      "Feature Engineering"
+      "Feature Engineering",
+      "Time Series Analysis",
+      "Time Series Forecasting",
+      "Data Engineering & Pipelines",
+      "MLOps & Model Deployment",
+      "Data Visualization"
     ]
   },
   {
@@ -1216,7 +1334,79 @@
       "Environmental Engineering",
       "Chemical Engineering",
       "Structural Engineering",
-      "Materials Science"
+      "Materials Science",
+      "Power Systems Analysis",
+      "Power Electronics",
+      "Renewable Energy Systems",
+      "Electric Vehicles & Battery Technology",
+      "Smart Grid",
+      "High Voltage Engineering",
+      "Energy Auditing & Management",
+      "PLC & SCADA Programming",
+      "MATLAB/Simulink for EEE",
+      "VLSI Design",
+      "Digital Signal Processing",
+      "RF & Wireless Communication",
+      "Embedded Systems & Microcontrollers",
+      "MATLAB/Simulink",
+      "ARM Cortex Programming",
+      "FPGA Design",
+      "Verilog / VHDL (HDL)",
+      "CAD with AutoCAD / SolidWorks",
+      "CAM & CNC Programming",
+      "Finite Element Analysis (Ansys)",
+      "MATLAB for Mechanical",
+      "Robotics & Automation",
+      "Non-Destructive Testing (NDT)",
+      "Thermodynamic Simulations",
+      "Aspen Plus Process Simulation",
+      "Chemical Reaction Engineering",
+      "Mass Transfer Operations",
+      "Process Safety & HAZOP",
+      "Process Design & Optimization",
+      "Molecular Biology Techniques",
+      "Genomics & Proteomics",
+      "Python for Bioinformatics",
+      "Downstream Processing",
+      "Bioinformatics Tools (BLAST, NCBI)",
+      "Biostatistics & R",
+      "LabVIEW & Virtual Instrumentation",
+      "SCADA & PLC Programming",
+      "Process Control Design",
+      "Biomedical Instrumentation",
+      "Industrial Automation",
+      "Sensor Calibration & Metrology",
+      "Industrial IoT",
+      "Network Administration",
+      "Cloud Infrastructure",
+      "Information Security Management",
+      "Database Administration",
+      "Virtualization",
+      "AutoCAD for Civil Engineering",
+      "Revit & BIM",
+      "STAAD Pro / ETABS Structural Analysis",
+      "GIS & Remote Sensing",
+      "Construction Management Software",
+      "Site Safety & Quality Management",
+      "Geotechnical Analysis Software",
+      "Advanced Machine Learning",
+      "Deep Learning Architectures",
+      "Natural Language Processing",
+      "Generative AI & LLMs",
+      "MLOps & Model Deployment",
+      "Data Engineering & Pipelines",
+      "Responsible AI & AI Ethics",
+      "AI Research Methods",
+      "Kaggle & Competitive ML",
+      "Web Application Development",
+      "API Development & Integration",
+      "Agile & Scrum",
+      "Enterprise Architecture",
+      "IT Service Management (ITSM)",
+      "Environmental Compliance",
+      "Six Sigma for Process Industries",
+      "Computational Drug Discovery",
+      "Genetic Engineering Techniques"
     ]
   },
   {
@@ -1245,7 +1435,16 @@
       "Computer Networks",
       "Operating Systems",
       "Chemistry",
-      "Physics"
+      "Physics",
+      "Control Systems Engineering",
+      "Structural Engineering",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Molecular Biology Techniques",
+      "Genomics & Proteomics",
+      "Advanced Machine Learning",
+      "Reinforcement Learning"
     ]
   },
   {
@@ -1269,7 +1468,12 @@
       "Renewable Energy Systems",
       "IC Engines",
       "Control Systems Engineering",
-      "Power Electronics"
+      "Power Electronics",
+      "Power Systems Analysis",
+      "Electric Vehicles & Battery Technology",
+      "CAD with AutoCAD / SolidWorks",
+      "Non-Destructive Testing (NDT)",
+      "3D Printing & Additive Manufacturing"
     ]
   },
   {
@@ -1294,7 +1498,19 @@
       "Finite Element Analysis (Ansys)",
       "Product Design & Development",
       "Civil Engineering",
-      "Engineering Design"
+      "Engineering Design",
+      "CAD with AutoCAD / SolidWorks",
+      "3D Printing & Additive Manufacturing",
+      "Robotics & Automation",
+      "Non-Destructive Testing (NDT)",
+      "MATLAB for Mechanical",
+      "Operations Research for Engineering",
+      "AutoCAD for Civil Engineering",
+      "STAAD Pro / ETABS Structural Analysis",
+      "Geotechnical Analysis Software",
+      "GIS & Remote Sensing",
+      "CAM & CNC Programming",
+      "Thermodynamic Simulations"
     ]
   },
   {
@@ -1320,7 +1536,14 @@
       "VLSI Design",
       "Signals & Systems",
       "Analog Electronics",
-      "IoT & Sensor Networks"
+      "IoT & Sensor Networks",
+      "Digital Signal Processing",
+      "RF & Wireless Communication",
+      "Arduino & Raspberry Pi",
+      "MATLAB/Simulink",
+      "ARM Cortex Programming",
+      "FPGA Design",
+      "Verilog / VHDL (HDL)"
     ]
   },
   {
@@ -1340,7 +1563,8 @@
       "Financial Literacy",
       "Entrepreneurship & Startups",
       "Entrepreneurship Mindset",
-      "Basic Sales & Persuasion"
+      "Basic Sales & Persuasion",
+      "Negotiation"
     ]
   },
   {
@@ -1381,7 +1605,11 @@
       "Technical Interview Preparation",
       "HR Interview & Behavioural Questions",
       "Career Planning",
-      "Personal Branding Online"
+      "Personal Branding Online",
+      "Group Discussion Skills",
+      "Professional Email Writing",
+      "Digital Literacy",
+      "Agile / Scrum Basics"
     ]
   },
   {
@@ -1403,7 +1631,9 @@
       "Entrepreneurship Mindset",
       "Leadership Basics",
       "Resilience & Mental Health",
-      "Growth Mindset"
+      "Growth Mindset",
+      "Group Discussion Skills",
+      "Higher Studies Planning (MS/MBA)"
     ]
   },
   {
@@ -1422,11 +1652,95 @@
     "skills": [
       "Leadership Basics",
       "Communication — Verbal",
+      "Communication — Written",
       "Teamwork & Collaboration",
       "Emotional Intelligence",
       "Public Speaking",
       "Professional Networking",
-      "Entrepreneurship Mindset"
+      "Entrepreneurship Mindset",
+      "Conflict Resolution"
+    ]
+  },
+  {
+    "id": "yt_061",
+    "name": "DesignCourse",
+    "url": "https://www.youtube.com/@DesignCourse",
+    "category": "Design / Creative",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "UI/UX design, Figma, graphic design and front-end tutorials — one of the most popular free design channels.",
+    "skills": [
+      "UI/UX Design",
+      "Figma",
+      "Graphic Design",
+      "HTML & CSS",
+      "Frontend Development",
+      "JavaScript (Frontend)"
+    ]
+  },
+  {
+    "id": "yt_062",
+    "name": "Hacking with Swift",
+    "url": "https://www.youtube.com/@twostraws",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Paul Hudson's free Swift and iOS tutorials — the leading free resource for learning Swift and Apple development.",
+    "skills": [
+      "Swift",
+      "Mobile Development",
+      "iOS Development"
+    ]
+  },
+  {
+    "id": "yt_063",
+    "name": "Canva",
+    "url": "https://www.youtube.com/@canva",
+    "category": "Design / Creative",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Official Canva YouTube channel — tutorials on graphic design, presentations, social media content and Canva tools.",
+    "skills": [
+      "Canva",
+      "Graphic Design",
+      "Content Creation",
+      "Digital Marketing",
+      "Presentation Skills"
+    ]
+  },
+  {
+    "id": "yt_064",
+    "name": "Patrick Collins",
+    "url": "https://www.youtube.com/@PatrickAlphaC",
+    "category": "Programming",
+    "tags": [
+      "Free",
+      "YouTube",
+      "Beginner",
+      "Global"
+    ],
+    "type": "Channel",
+    "description": "Blockchain and Web3 development — the most comprehensive free Solidity, Ethereum and smart contract course on YouTube.",
+    "skills": [
+      "Blockchain Basics",
+      "Web3 Development",
+      "Smart Contracts",
+      "Python Programming"
     ]
   }
 ]
